@@ -4,7 +4,7 @@ The importance of a positive work culture for wellbeing and productivity has bec
 Here, we focus on two key barriers that we decided we could immediately address: <br/>
 
 1. Although many group leaders are passionate about improving lab culture, there isn’t an established resource with actionable advice. Instead, existing training and resources typically provide general advice. 
-2. Policies implemented by group leaders are not documented (neither publicly nor within the lab), making it difficult for lab members to influence their environment or hold the group leader accountable. This may also create expectation mismatch between prospective group members and the group leader. <br/>
+2. Policies implemented by group leaders are not documented (neither publicly nor internally), making it difficult for lab members to influence their environment or hold the group leader accountable. This may also create expectation mismatch between prospective group members and the group leader. <br/>
 
 In response to this need, the 13 attendees of SAFE Labs co-authored this handbook. It presents core commitments that span different topics: Policies, Teams, and Careers. No commitment relies on institutional support to implement, and all commitments are actionable, and can be verifiably implemented. This is because:
 -	Implementable commitments are the most helpful to group leaders and lab members.
@@ -38,7 +38,7 @@ _**Example:**_ We may include an example (e.g. for a documented statement). Thes
 ## Key terminology:
 _**Publicly Document:**_ A written record on the lab website that is visible to anyone. This allows applicants to make informed decisions, and minimizes expectation mismatch. Publicly documenting traditionally obscured information can be uncomfortable—it was for us. For each commitment, we asked ourselves: Would this information be useful if I were applying to a lab? Is there a strong reason to withhold this information? We hope you agree with our classifications, but if not, tell us why!<br/>
 <br/>
-_**Document:**_ A written record that is visible to lab members, but not necessarily to anyone visiting the lab website. For example, on a “Lab Wiki”, “Slack Canvas”, or another shared document. This information can also be publicly documented, but this is not required.   <br/>
+_**Internally Document:**_ A written record that is visible to lab members, but not necessarily to anyone visiting the lab website. For example, on a “Lab Wiki”, “Slack Canvas”, or another shared document. This information can also be publicly documented, but this is not required.   <br/>
 <br/>
 _**Establish:**_ This requires implementing a new (if not already established) policy/process/event. Not as immediately achievable as documenting something, but does not require institutional support.<br/>
 
@@ -140,7 +140,7 @@ The institutional language at the Italian Institute of Technology is English; no
  <br/>
 </i></details>
 
-**I commit to _document_ ...**
+**I commit to _internally document_ ...**
 <details>
 <summary> <b> <code> ... the procedure for reporting bullying and/or harassment. </code> </b>  <br/>
 </summary>
@@ -328,7 +328,7 @@ Our team is composed by researchers with different roles: post-doctoral research
 
 
 
-**I commit to _document_ ...**
+**I commit to _internally document_ ...**
 <details>
 <summary> <b> <code> ... the onboarding procedure for new lab members. </code> </b>  <br/>
 </summary>
@@ -583,7 +583,7 @@ I will be transparent with postdoctoral researchers about the available funding 
 </details>
 
 
-**I commit to _document_ ...**
+**I commit to _internally document_ ...**
 <details>
 <summary> <b> <code> ... the procedure for requesting reference letters. </code> </b>  <br/>
 </summary>
