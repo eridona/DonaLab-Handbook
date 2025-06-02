@@ -3,16 +3,6 @@ The importance of a positive work culture for wellbeing and productivity has bec
 
 Here, we focus on two key barriers that we decided we could immediately address: <br/>
 
-## Simple Test Table
-
-| Role | Task | Status |
-|---|---|---|
-| Postdoc | Research | Y |
-| PhD | Writing | Y |
-| Undergrad | Analysis | N |
-
-This should render as a table if markdown processing is working.
-
 1. Although many group leaders are passionate about improving lab culture, there isn’t an established resource with actionable advice. Instead, existing training and resources typically provide general advice. 
 2. Policies implemented by group leaders are not documented (neither publicly nor internally), making it difficult for lab members to influence their environment or hold the group leader accountable. This may also create expectation mismatch between prospective group members and the group leader. <br/>
 
