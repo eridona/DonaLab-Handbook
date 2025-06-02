@@ -1,10 +1,8 @@
 name: Sync to WordPress
 
-# This workflow runs whenever you push to the main branch
 on:
   push:
     branches: [ main ]
-  # You can also trigger it manually from GitHub
   workflow_dispatch:
 
 jobs:
@@ -21,35 +19,29 @@ jobs:
         python-version: '3.9'
         
     - name: Install dependencies
-      run: |
-        pip install requests markdown
+      run: pip install requests markdown
         
-    - name: Sync files to WordPress
+    - name: Sync all markdown files to WordPress
       run: |
         python << 'EOF'
         import requests
-        import base64
-        import json
         import os
         import markdown
-        from pathlib import Path
         
         # Configuration
         WORDPRESS_SITE = "https://safelabs.info"
         WORDPRESS_API_ENDPOINT = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/update-content"
+        BRANCH = "main"  # or get from environment
         
         def convert_markdown_to_html(markdown_content):
-            """Convert Markdown content to HTML"""
             try:
                 md = markdown.Markdown(extensions=['extra', 'codehilite', 'toc'])
-                html_content = md.convert(markdown_content)
-                return html_content
+                return md.convert(markdown_content)
             except Exception as e:
                 print(f"Error converting markdown: {e}")
                 return f"<pre>{markdown_content}</pre>"
         
-        def update_wordpress_content(file_path, content, branch="main"):
-            """Update WordPress with the content via REST API"""
+        def update_wordpress_content(file_path, content, branch):
             data = {
                 'file': file_path,
                 'content': content,
@@ -64,106 +56,60 @@ jobs:
                     timeout=30
                 )
                 response.raise_for_status()
-                
-                return {
-                    'success': True,
-                    'response': response.json()
-                }
-            except requests.exceptions.RequestException as e:
-                return {
-                    'success': False,
-                    'error': f"WordPress API error: {str(e)}",
-                    'status_code': getattr(e.response, 'status_code', None)
-                }
-        
-        def sync_file_to_wordpress(file_path, branch="main"):
-            """Complete workflow: read file and update WordPress"""
-            print(f"Syncing {file_path}...")
-            
-            try:
-                # Read the file from the repository
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                
-                # Convert markdown to HTML if it's a .md file
-                if file_path.endswith('.md'):
-                    content = convert_markdown_to_html(content)
-                
-                # Update WordPress
-                wp_result = update_wordpress_content(file_path, content, branch)
-                if wp_result['success']:
-                    print(f"✅ Successfully synced {file_path}")
-                    return True
-                else:
-                    print(f"❌ Failed to update WordPress for {file_path}: {wp_result['error']}")
-                    return False
-                    
-            except FileNotFoundError:
-                print(f"❌ File not found: {file_path}")
-                return False
+                return {'success': True, 'response': response.json()}
             except Exception as e:
-                print(f"❌ Error processing {file_path}: {str(e)}")
-                return False
+                return {'success': False, 'error': str(e)}
         
         def find_markdown_files():
-            """Find all markdown files in the repository"""
             markdown_files = []
-            
             for root, dirs, files in os.walk('.'):
-                # Skip hidden directories and common ignore patterns
-                dirs[:] = [d for d in dirs if not d.startswith('.') and d not in ['node_modules', '__pycache__']]
-                
+                # Skip hidden directories
+                dirs[:] = [d for d in dirs if not d.startswith('.')]
                 for file in files:
                     if file.endswith('.md'):
                         file_path = os.path.relpath(os.path.join(root, file), '.')
-                        # Convert Windows path separators to forward slashes
-                        file_path = file_path.replace('\\', '/')
+                        file_path = file_path.replace('\\', '/')  # Windows compatibility
                         markdown_files.append(file_path)
-            
             return markdown_files
         
-        def main():
-            """Main function to sync all markdown files"""
-            print("🚀 Starting GitHub Actions WordPress sync...")
-            print("-" * 50)
-            
-            # Test WordPress connection first
-            test_url = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/test"
-            try:
-                test_response = requests.get(test_url, timeout=10)
-                test_response.raise_for_status()
-                print("✅ WordPress API connection successful")
-            except Exception as e:
-                print(f"❌ WordPress API connection failed: {e}")
-                exit(1)
-            
-            # Find all markdown files
-            print("📁 Scanning repository for markdown files...")
-            markdown_files = find_markdown_files()
-            
-            if not markdown_files:
-                print("No markdown files found in the repository")
-                return
-            
-            print(f"Found {len(markdown_files)} markdown files:")
-            for file in markdown_files:
-                print(f"  - {file}")
-            
-            print("\n🔄 Starting sync process...")
-            
-            success_count = 0
-            for file_path in markdown_files:
-                if sync_file_to_wordpress(file_path, "main"):
-                    success_count += 1
-            
-            print(f"\n📊 Sync complete: {success_count}/{len(markdown_files)} files synced successfully")
-            
-            if success_count > 0:
-                print("\n📝 WordPress Shortcodes available:")
-                print("Add these shortcodes to your WordPress pages/posts:")
-                for file_path in markdown_files:
-                    print(f'[github_content file="{file_path}"]')
+        # Main execution
+        print("🚀 Starting sync...")
         
-        if __name__ == "__main__":
-            main()
+        # Test WordPress connection
+        test_url = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/test"
+        try:
+            test_response = requests.get(test_url, timeout=10)
+            test_response.raise_for_status()
+            print("✅ WordPress connection successful")
+        except Exception as e:
+            print(f"❌ WordPress connection failed: {e}")
+            exit(1)
+        
+        # Find and sync markdown files
+        markdown_files = find_markdown_files()
+        print(f"Found {len(markdown_files)} markdown files")
+        
+        success_count = 0
+        for file_path in markdown_files:
+            print(f"Syncing {file_path}...")
+            
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                # Convert to HTML
+                html_content = convert_markdown_to_html(content)
+                
+                # Update WordPress
+                result = update_wordpress_content(file_path, html_content, BRANCH)
+                if result['success']:
+                    print(f"✅ Successfully synced {file_path}")
+                    success_count += 1
+                else:
+                    print(f"❌ Failed to sync {file_path}: {result['error']}")
+                    
+            except Exception as e:
+                print(f"❌ Error processing {file_path}: {e}")
+        
+        print(f"📊 Sync complete: {success_count}/{len(markdown_files)} files synced")
         EOF
