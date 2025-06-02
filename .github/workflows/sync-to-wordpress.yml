@@ -2,7 +2,7 @@ name: Sync to WordPress
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, development, website-integrate-test ]  # Add any branches you want to sync
   workflow_dispatch:
 
 jobs:
@@ -31,7 +31,8 @@ jobs:
         # Configuration
         WORDPRESS_SITE = "https://safelabs.info"
         WORDPRESS_API_ENDPOINT = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/update-content"
-        BRANCH = "main"  # or get from environment
+        # Get the actual branch that triggered this workflow
+        BRANCH = os.environ.get('GITHUB_REF_NAME', 'main')
         
         def convert_markdown_to_html(markdown_content):
             try:
@@ -73,7 +74,7 @@ jobs:
             return markdown_files
         
         # Main execution
-        print("🚀 Starting sync...")
+        print(f"🚀 Starting sync from branch: {BRANCH}...")
         
         # Test WordPress connection
         test_url = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/test"
