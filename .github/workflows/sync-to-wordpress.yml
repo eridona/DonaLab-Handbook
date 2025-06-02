@@ -40,10 +40,127 @@ jobs:
                 cleaned_content = markdown_content
                 
                 # Remove LaTeX color commands
-                pattern = r'\$\{\\color\{[^}]+\}([^}]+)\}\$'
+                pattern = r'\$\{\\color\{[^}]+\}([^}]+)\}\
+        
+        def update_wordpress_content(file_path, content, branch):
+            data = {
+                'file': file_path,
+                'content': content,
+                'branch': branch
+            }
+            
+            try:
+                response = requests.post(
+                    WORDPRESS_API_ENDPOINT,
+                    json=data,
+                    headers={'Content-Type': 'application/json'},
+                    timeout=30
+                )
+                response.raise_for_status()
+                return {'success': True, 'response': response.json()}
+            except Exception as e:
+                return {'success': False, 'error': str(e)}
+        
+        def find_markdown_files():
+            markdown_files = []
+            for root, dirs, files in os.walk('.'):
+                dirs[:] = [d for d in dirs if not d.startswith('.')]
+                for file in files:
+                    if file.endswith('.md'):
+                        file_path = os.path.relpath(os.path.join(root, file), '.')
+                        file_path = file_path.replace('\\', '/')
+                        markdown_files.append(file_path)
+            return markdown_files
+        
+        # Main execution
+        print(f"🚀 Starting sync from branch: {BRANCH}...")
+        
+        # Test WordPress connection
+        test_url = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/test"
+        try:
+            test_response = requests.get(test_url, timeout=10)
+            test_response.raise_for_status()
+            print("✅ WordPress connection successful")
+        except Exception as e:
+            print(f"❌ WordPress connection failed: {e}")
+            exit(1)
+        
+        # Find and sync markdown files
+        markdown_files = find_markdown_files()
+        print(f"Found {len(markdown_files)} markdown files")
+        
+        success_count = 0
+        for file_path in markdown_files:
+            print(f"Syncing {file_path}...")
+            
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                html_content = convert_markdown_to_html(content)
+                
+                result = update_wordpress_content(file_path, html_content, BRANCH)
+                if result['success']:
+                    print(f"✅ Successfully synced {file_path}")
+                    success_count += 1
+                else:
+                    print(f"❌ Failed to sync {file_path}: {result['error']}")
+                    
+            except Exception as e:
+                print(f"❌ Error processing {file_path}: {e}")
+        
+        print(f"📊 Sync complete: {success_count}/{len(markdown_files)} files synced")
+        SCRIPT_END
+        
+        python sync_script.py
                 cleaned_content = re.sub(pattern, r'**\1**', cleaned_content)
                 
-                # Fix table separator lines
+                # Fix the specific problematic table completely
+                if '**Postdoc**' in cleaned_content and '**Assistant/Engineer**' in cleaned_content:
+                    # Replace the entire malformed table with a proper one
+                    table_replacement = '''
+| | **Postdoc** | **PhD** | **Undergrad** | **Assistant/Engineer** |
+|---|:---:|:---:|:---:|:---:|
+| **Supervision** | | | | |
+| *Supervised by* | PI | PI & Postdoc | PI/Postdoc | PI |
+| *Supervising* | PhD, Undergrad | Undergrad | N | N |
+| **Research** | | | | |
+| *Independent Project* | Y | Y | N | N |
+| *Experimental work* | Y | Y | Y | Y |
+| *Analysis* | Y | Y | Y | N |
+| *Paper Writing* | Y | Y | N | N |
+| *Conference presentation* | Y | Y | N | N |
+| **Funding** | | | | |
+| *Applications* | Y | N | N | N |
+| *Help PI grants* | Y | Y | N | N |
+| **Lab citizenship** | | | | |
+| *Data Club* | Y | Y | Y | N |
+| *Journal Club* | Y | Y | Y | N |
+| *Paper review* | Y | Y | N | N |
+| **Housekeeping** | | | | |
+| *Orders* | Y | Y | N | Y |
+| *Animal colony* | Y | Y | N | Y |
+'''
+                    # Find and replace the problematic table
+                    lines = cleaned_content.split('\n')
+                    new_lines = []
+                    in_table = False
+                    
+                    for line in lines:
+                        if '**Postdoc**' in line and '**Assistant/Engineer**' in line:
+                            in_table = True
+                            new_lines.append(table_replacement.strip())
+                            continue
+                        elif in_table and (line.strip() == '' or not line.strip().startswith('|')):
+                            in_table = False
+                            if line.strip():  # Don't skip non-empty non-table lines
+                                new_lines.append(line)
+                        elif not in_table:
+                            new_lines.append(line)
+                    
+                    cleaned_content = '\n'.join(new_lines)
+                
+                # General table fixes for other tables
                 lines = cleaned_content.split('\n')
                 fixed_lines = []
                 
