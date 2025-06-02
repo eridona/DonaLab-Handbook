@@ -302,27 +302,152 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
 <b>Example: </b> <br/>
 Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.</i>
 
-| | **Postdoc** | **PhD** | **Undergrad** | **Technician** |
-|---|:---:|:---:|:---:|:---:|
-| **Supervision** | | | | |
-| *Supervised by* | PI | PI & Postdoc | PI/Postdoc | PI |
-| *Supervising* | PhD, Undergrad | Undergrad | N | N |
-| **Research** | | | | |
-| *Independent Project* | Y | Y | N | N |
-| *Experimental work* | Y | Y | Y | Y |
-| *Analysis* | Y | Y | Y | N |
-| *Paper Writing* | Y | Y | N | N |
-| *Conference presentation* | Y | Y | N | N |
-| **Funding** | | | | |
-| *Applications* | Y | N | N | N |
-| *Help PI grants* | Y | Y | N | N |
-| **Lab citizenship** | | | | |
-| *Data Club* | Y | Y | Y | N |
-| *Journal Club* | Y | Y | Y | N |
-| *Paper review* | Y | Y | N | N |
-| **Housekeeping** | | | | |
-| *Orders* | Y | Y | N | Y |
-| *Animal colony* | Y | Y | N | Y |
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Postdoc</strong></th>
+<th><strong>PhD</strong></th>
+<th><strong>Undergrad</strong></th>
+<th><strong>Assistant/Engineer</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Supervision</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Supervised by</em></td>
+<td>PI</td>
+<td>PI &amp; Postdoc</td>
+<td>PI/Postdoc</td>
+<td>PI</td>
+</tr>
+<tr>
+<td><em>Supervising</em></td>
+<td>PhD, Undergrad</td>
+<td>Undergrad</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><strong>Research</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Independent Project</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Experimental work</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><em>Analysis</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Paper Writing</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Conference presentation</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><strong>Funding</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Applications</em></td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Help PI grants</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><strong>Lab citizenship</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Data Club</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Journal Club</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>Paper review</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td><strong>Housekeeping</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Orders</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>Y</td>
+</tr>
+<tr>
+<td><em>Animal colony</em></td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>Y</td>
+</tr>
+</tbody>
+</table>
 
 </details>
 
