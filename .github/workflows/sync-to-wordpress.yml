@@ -2,7 +2,7 @@ name: Sync to WordPress
 
 on:
   push:
-    branches: [ main, development, integrate-website ]  # Add any branches you want to sync
+    branches: [ main, development, integrate-website ]  # Changed website-integrate-test to integrate-website
   workflow_dispatch:
 
 jobs:
