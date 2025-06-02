@@ -2,7 +2,7 @@ name: Sync to WordPress
 
 on:
   push:
-    branches: [ main, development, integrate-website ]  # Changed website-integrate-test to integrate-website
+    branches: [ main, development, integrate-website ]
   workflow_dispatch:
 
 jobs:
@@ -23,112 +23,38 @@ jobs:
         
     - name: Sync all markdown files to WordPress
       run: |
-        python << 'EOF'
+        cat > sync_script.py << 'SCRIPT_END'
         import requests
         import os
         import markdown
+        import re
         
         # Configuration
         WORDPRESS_SITE = "https://safelabs.info"
         WORDPRESS_API_ENDPOINT = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/update-content"
-        # Get the actual branch that triggered this workflow
         BRANCH = os.environ.get('GITHUB_REF_NAME', 'main')
         
         def convert_markdown_to_html(markdown_content):
             try:
-                # First, clean up problematic LaTeX syntax that breaks markdown parsing
+                # Clean up problematic LaTeX syntax
                 cleaned_content = markdown_content
                 
-                # Remove LaTeX color commands like ${\color{green}Text}$
-                import re
-                cleaned_content = re.sub(r'\$\{\\color\{[^}]+\}([^}]+)\}\
-        
-        def update_wordpress_content(file_path, content, branch):
-            data = {
-                'file': file_path,
-                'content': content,
-                'branch': branch
-            }
-            
-            try:
-                response = requests.post(
-                    WORDPRESS_API_ENDPOINT,
-                    json=data,
-                    headers={'Content-Type': 'application/json'},
-                    timeout=30
-                )
-                response.raise_for_status()
-                return {'success': True, 'response': response.json()}
-            except Exception as e:
-                return {'success': False, 'error': str(e)}
-        
-        def find_markdown_files():
-            markdown_files = []
-            for root, dirs, files in os.walk('.'):
-                # Skip hidden directories
-                dirs[:] = [d for d in dirs if not d.startswith('.')]
-                for file in files:
-                    if file.endswith('.md'):
-                        file_path = os.path.relpath(os.path.join(root, file), '.')
-                        file_path = file_path.replace('\\', '/')  # Windows compatibility
-                        markdown_files.append(file_path)
-            return markdown_files
-        
-        # Main execution
-        print(f"🚀 Starting sync from branch: {BRANCH}...")
-        
-        # Test WordPress connection
-        test_url = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/test"
-        try:
-            test_response = requests.get(test_url, timeout=10)
-            test_response.raise_for_status()
-            print("✅ WordPress connection successful")
-        except Exception as e:
-            print(f"❌ WordPress connection failed: {e}")
-            exit(1)
-        
-        # Find and sync markdown files
-        markdown_files = find_markdown_files()
-        print(f"Found {len(markdown_files)} markdown files")
-        
-        success_count = 0
-        for file_path in markdown_files:
-            print(f"Syncing {file_path}...")
-            
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    content = f.read()
+                # Remove LaTeX color commands
+                pattern = r'\$\{\\color\{[^}]+\}([^}]+)\}\$'
+                cleaned_content = re.sub(pattern, r'**\1**', cleaned_content)
                 
-                # Convert to HTML
-                html_content = convert_markdown_to_html(content)
-                
-                # Update WordPress
-                result = update_wordpress_content(file_path, html_content, BRANCH)
-                if result['success']:
-                    print(f"✅ Successfully synced {file_path}")
-                    success_count += 1
-                else:
-                    print(f"❌ Failed to sync {file_path}: {result['error']}")
-                    
-            except Exception as e:
-                print(f"❌ Error processing {file_path}: {e}")
-        
-        print(f"📊 Sync complete: {success_count}/{len(markdown_files)} files synced")
-        EOF, r'**\1**', cleaned_content)
-                
-                # Fix table separator lines that might be malformed
+                # Fix table separator lines
                 lines = cleaned_content.split('\n')
                 fixed_lines = []
                 
                 for i, line in enumerate(lines):
-                    # Fix table separator lines
+                    # Fix malformed table separators
                     if line.strip().startswith('|--') or '--|' in line:
-                        # Count columns from previous line to create proper separator
                         if i > 0 and '|' in lines[i-1]:
                             cols = lines[i-1].count('|') - 1
                             line = '|' + '---|' * cols
                     
-                    # Fix empty table cells that might break parsing
+                    # Fix empty table cells
                     if '||' in line:
                         line = line.replace('||', '| |')
                     
@@ -165,12 +91,11 @@ jobs:
         def find_markdown_files():
             markdown_files = []
             for root, dirs, files in os.walk('.'):
-                # Skip hidden directories
                 dirs[:] = [d for d in dirs if not d.startswith('.')]
                 for file in files:
                     if file.endswith('.md'):
                         file_path = os.path.relpath(os.path.join(root, file), '.')
-                        file_path = file_path.replace('\\', '/')  # Windows compatibility
+                        file_path = file_path.replace('\\', '/')
                         markdown_files.append(file_path)
             return markdown_files
         
@@ -199,10 +124,8 @@ jobs:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                # Convert to HTML
                 html_content = convert_markdown_to_html(content)
                 
-                # Update WordPress
                 result = update_wordpress_content(file_path, html_content, BRANCH)
                 if result['success']:
                     print(f"✅ Successfully synced {file_path}")
@@ -214,4 +137,6 @@ jobs:
                 print(f"❌ Error processing {file_path}: {e}")
         
         print(f"📊 Sync complete: {success_count}/{len(markdown_files)} files synced")
-        EOF
+        SCRIPT_END
+        
+        python sync_script.py
