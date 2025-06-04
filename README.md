@@ -172,6 +172,7 @@ Students or members of staff who feel they have experienced or witnessed bullyin
 The Reporting Party will be told whether their complaint has been upheld or not; and whether the Reported Party has been dismissed or expelled. If the complaint is not upheld or the Reported Party is not dismissed or expelled, information will be shared with the Reporting Party to minimise any adverse effects in accessing their work or study environment, where possible, but there may be limits to the information about the consequences to the Reported Party that can be shared with the Reporting Party.  <br/>
 <br/>
 Where the Reporting Party is told the outcome they will be asked to respect confidentiality with regards to the outcome. Links to institute guidelines and contact information of the person in charge for each group are provided as hyperlinks above.  <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/06-Incident-Reporting">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -196,6 +197,7 @@ Counseling Services: Our institution offers free counseling services [Insert Lin
 Medical Services: Our institution's medical services can guide you to professional mental health resources. Please refer to [link, phone number] for details. Additionally, please consult the institute’s policy on sick leave [Insert Link].<br/>
 <br/>
 Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)].
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/07-Mental-Health">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -215,6 +217,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 &nbsp;&nbsp;&nbsp; 2.	If not, please raise the issue anonymously by using this form. <br/>
 &nbsp;&nbsp;&nbsp; 3.	If external involvement would be beneficial, contact our dedicated external advisor. <br/>
 &nbsp;&nbsp;&nbsp; 4.	If none of the above steps fare appropriate, raise the issue with HR here. <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/08-Conflict-Resolution">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -228,6 +231,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 -Clear instructions for reporting different statuses (e.g. vacation vs conference attendance).<br/>
 -What specific details should be reported? (e.g. half-day vs full day).<br/>
   <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/09-Shared-Calendar">Click here for more examples from the community</a><br/>
   </i>
 </details>
 
@@ -239,6 +243,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 <br/>
 <i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, <b> contact details for each person should be included.</b> Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. <br/>
 <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/01-Lab-Members-List">Click here for more examples from the community</a><br/>
   </i>
 </details>
 
@@ -256,10 +261,10 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 -What times are appropriate times for scheduling meetings? <br/>
   <br/>
 <b>Example: </b> <br/>
-I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic neuroscience should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX’s prescribed 41 days of annual leave. “Minimum” because if experiments necessitate working on a weekend, or you attend a conference that’s scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL’s “core” work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.<br/>
+I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic neuroscience should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX's prescribed 41 days of annual leave. "Minimum" because if experiments necessitate working on a weekend, or you attend a conference that's scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL's "core" work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.<br/>
   <br/>
-  All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to “three”)  once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant.
-</i>
+  All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to "three")  once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant.<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/02-Work-Life-Balance">Click here for more examples from the community</a></i>
 </details>
 
 
@@ -289,6 +294,7 @@ Journal Club: On a rotating schedule, each lab member will present the core hypo
 1-on-1 Meetings: I schedule bi-weekly 1-on-1 in-person meetings which each lab member, typically lasting around 1 hour, during core work hours [details below]. These meetings are designed to support you in successfully implementing your research project. I am also available for additional meetings upon request. <br/>
  <br/>
 Yearly Appraisals: I will review your project's long-term progress and provide tailored feedback on your work performance during yearly appraisals. This is also an opportunity for you to give me feedback on your experience working in the lab, and under my supervision.
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/03-Meeting-Schedule">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -308,7 +314,9 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
 -What level of supervision/training will be offered?<br/>
   <br/>
 <b>Example: </b> <br/>
-Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.</i>
+Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/04-Responsibilities">Click here for more examples from the community</a><br/>
+</i>
 
 <table>
 <thead>
@@ -484,6 +492,7 @@ Our team is composed by researchers with different roles: post-doctoral research
   Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Insert Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing.
 
 Unless I am traveling, we will have our first 1-on-1 meeting during your first day in the lab. This will include a discussion of your project in the lab, but also guidance on how you can access all the information and lab policies specified in the SAFE Labs Lab Culture Handbook.
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/05-Onboarding">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -506,6 +515,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Insert Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or inter-personal issues [Insert Link].  <br/>
 <br/>
 The above policies pertain to communal lab resources. Individuals with their own grants which, for example, allow them to hire a technician or travel to conferences will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/06-Resource-Access">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -523,7 +533,9 @@ The above policies pertain to communal lab resources. Individuals with their own
 -New group leaders could combine lab retreats/lab meetings to improve feedback.  <br/>
 -Communicate feedback decisions and if suggestions are not implemented, explain why.  <br/>
 -Follow up on feedback implementation.
-  <br/> </i>
+  <br/> 
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/07-Lab-Feedback">Click here for more examples from the community</a><br/>
+</i>
 </details>
 
 
@@ -542,8 +554,9 @@ The above policies pertain to communal lab resources. Individuals with their own
 -Evaluate project progression based on milestones, rather than just specific results.<br/>
 -Celebrate all publications equally regardless of journal. <br/>
 -Acknowledge the element of luck in all scientific endeavours.<br/>
--Avoid the phrase ‘negative results’: all results are discoveries; hypotheses can be falsified.<br/>
+-Avoid the phrase 'negative results': all results are discoveries; hypotheses can be falsified.<br/>
   <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/08-Individual-Feedback">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -552,13 +565,14 @@ The above policies pertain to communal lab resources. Individuals with their own
 <summary> <b> <code> ... annual lab-wide meetings to normalise failures. </code> </b>  <br/>
 </summary>
 <br/>
-<i><b>Details: </b> Research can be frustrating, with failures and falsified hypotheses outnumbering successes. Most failures are “good” failures: those where you discover something about the system you are working on, and improve future work through the experience. These failures are the stepping stones to discovery, and should be celebrated. Implementing an annual meeting where all lab members, including the group leader, recount their most successful failure will help normalise these events as learning and growth opportunities. <br/>
+<i><b>Details: </b> Research can be frustrating, with failures and falsified hypotheses outnumbering successes. Most failures are "good" failures: those where you discover something about the system you are working on, and improve future work through the experience. These failures are the stepping stones to discovery, and should be celebrated. Implementing an annual meeting where all lab members, including the group leader, recount their most successful failure will help normalise these events as learning and growth opportunities. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
 -Each lab member could discuss a failed experiment, application, or endeavour.<br/>
 -Institute a prize for best failure, elected by general vote.<br/>
 - Celebrate experiments and efforts even when no new finding is produced.<br/>
   <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/09-Normalise-Failures">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -578,11 +592,12 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 -Lab members should take notes during the meeting.<br/>
 -Group leader should read the document after/before meetings (to catch misunderstandings).<br/>
 -Other solutions include allowing the lab member to record meetings (e.g. via zoom).<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/10-Record-Keeping">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
 <details>
-<summary> <b> <code> ... a “PhD steering committee” to annually monitor progress and mediate feedback. </code> </b>  <br/>
+<summary> <b> <code> ... a "PhD steering committee" to annually monitor progress and mediate feedback. </code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> NOTE: Some institutions already implement this process (e.g. "PhD Committee"), others have committees that meet irregularly, and some only form a committee for the final viva. However, <b> all SAFE Labs are required to implement this process—the steering committee does not need to have any official role in awarding the PhD. </b> It is important that PhD students receive support and feedback from beyond their direct supervisor. An annual presentation to a steering committee provides an impartial perspective on their project (e.g. timeline adjustments, training required). This meeting can identify potential conflicts and issues in the working environment of the PhD student. It also provides an opportunity for the supervisor to raise issues with the committee and request an external opinion. <br/>
@@ -596,6 +611,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 &nbsp;&nbsp;&nbsp; 2. Project presentation by the PhD student.<br/>
 &nbsp;&nbsp;&nbsp; 3. Discussion with student in absence of supervisor.<br/>
   <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/11-PhD-Committee">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -614,7 +630,8 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 -How will contributions be included in a paper? <br/>
   <br/>
 <b>Example: </b> <br/>
-  Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by <a href="https://credit.niso.org/">CRediT Taxonomy</a>. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.</i>
+  Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by <a href="https://credit.niso.org/">CRediT Taxonomy</a>. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/01-Authorship-Policy">Click here for more examples from the community</a></i>
 </details>
 
 <details>
@@ -633,8 +650,8 @@ Every PhD and postdoctoral researcher position in the lab inevitably has its own
 <br/>
 <b>PhD students </b> in the UK typically graduate ~4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it is often possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.<br/>
 <br/>
-<b>Postdoctoral researchers </b> typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding).
-</i>
+<b>Postdoctoral researchers </b> typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a 12-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract's timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding).<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/02-Ambitions-For-Roles">Click here for more examples from the community</a></i>
 </details>
 
 <details>
@@ -660,8 +677,8 @@ Each postdoctoral researcher and PhD student has a budget of £1000 per year to 
 <br/>
 Typically, I expect both PhD students and postdoctoral researchers to attend a competitive training school and/or a conference by the end of their second year in the lab. The lab will support applications (e.g. with recommendation letters) to these initiatives when they align with a project interest or planned career development. When funds are available, and application to fees waivers are not successful, the lab will cover the costs.<br/>
 <br/>
-Master’s students, undergraduates, and lab technicians are also encouraged to attend conferences if they have work to present. They should discuss these opportunities in advance with me. Often, there are grants available from conference organisers to support attendance, and if this is not the case, or the application for funds is unsuccessful, I will consider funding attendance on a case-by-case basis.
-</i>
+Master's students, undergraduates, and lab technicians are also encouraged to attend conferences if they have work to present. They should discuss these opportunities in advance with me. Often, there are grants available from conference organisers to support attendance, and if this is not the case, or the application for funds is unsuccessful, I will consider funding attendance on a case-by-case basis.<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/03-Conferences">Click here for more examples from the community</a></i>
 </details>
 
 
@@ -678,7 +695,8 @@ Master’s students, undergraduates, and lab technicians are also encouraged to 
 -A similar approach can be applied to independent or personal projects or commitments.<br/>
   <br/>
 <b>Example: </b> <br/>
-I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.</i>
+I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/04-Prior-Work">Click here for more examples from the community</a></i>
 </details>
 
 <details>
@@ -698,9 +716,10 @@ All postdoctoral researchers are required to apply for followships, both to bene
 <br/>
 It is possible for postdoctoral fellows to be promoted to a senior-researcher level through an established institutional process. This is often most successful after acquiring their own grant or publishing a paper. I encourage all researchers to apply for promotion and will review the possibility during annual appraisals.<br/>
 <br/>
-I will be transparent with postdoctoral researchers about the available funding for their position when they join the lab, and will discuss any.
-</i>
+I will be transparent with postdoctoral researchers about the available funding for their position when they join the lab, and will discuss any.<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/05-Postdoc-Funding">Click here for more examples from the community</a></i>
 </details>
+
 
 <details>
 <summary> <b> <code> ... the visa-support available to overseas applicants. </code> </b>  <br/>
@@ -712,11 +731,11 @@ I will be transparent with postdoctoral researchers about the available funding 
 -Acknowledge that costs will likely be unique to everyone. <br/>
   <br/>
 <b>Example: </b> <br/>
-  Visa costs when joining the lab from outside the UK vary by the applicant’s citizenship, but are typically £5,000, comprising application costs, required language tests, and annual NHS contributions. The process typically takes 3-6 months, although this can vary significantly. At the time of writing, we typically cover all costs related to the visa process. However, this can be position-dependent: please refer to the job advertisement for more specific details.</i>
+  Visa costs when joining the lab from outside the UK vary by the applicant's citizenship, but are typically £5,000, comprising application costs, required language tests, and annual NHS contributions. The process typically takes 3-6 months, although this can vary significantly. At the time of writing, we typically cover all costs related to the visa process. However, this can be position-dependent: please refer to the job advertisement for more specific details.<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/06-Visa-Support">Click here for more examples from the community</a></i>
 </details>
 
 
-**I commit to _internally document_ ...**
 <details>
 <summary> <b> <code> ... the procedure for requesting reference letters. </code> </b>  <br/>
 </summary>
@@ -729,7 +748,8 @@ I will be transparent with postdoctoral researchers about the available funding 
 -Collaborate and include lab members as signatories for their supervisees. <br/>
   <br/>
 <b>Example: </b> <br/>
-  Reference letters will be provided to lab members at request, but these requests should be made at least 2 weeks in advance of the deadline for the first reference letter, and at least 1 week in advance for subsequent letters. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.</i>
+  Reference letters will be provided to lab members at request, but these requests should be made at least 2 weeks in advance of the deadline for the first reference letter, and at least 1 week in advance for subsequent letters. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/07-Reference-Letters">Click here for more examples from the community</a></i>
 </details>
 
 <details>
@@ -752,14 +772,12 @@ I aim to provide lab members with mentorship and support to secure the next care
 <br/>
 I am best equipped to help with academic career trajectories: I offer mentorship at 1-on-1 meetings and will devote time to rehearse interview talks. However, academia is one of many available career paths.  For career paths outside academia, the institute, and external organisations (e.g. Nature Jobs fair), offer events and workshops. I support lab members making use of these resources. <br/>
 <br/>
-I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience.
-</i>
+I understand that people decide to leave the lab for different reasons, and may need to do so before their projects are complete. I ask that lab members discuss their plans with me as early as possible—preferably at least 6 months before their intended departure. This helps to ensure a smooth leaving process: the final months will include the hand-over of any knowledge and data needed to ensure documentation, continuity and completion of ongoing projects. As the final step prior to departure, I will organise an exit interview, carried out in private with a colleague (e.g. a SAFE lab network associate). During the interview, departing lab members will be able to discuss the reasons for leaving and provide constructive feedback based on their experience.<br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/08-Leaving-The-Lab">Click here for more examples from the community</a></i>
 </details>
 
-
-**I commit to _establish_ ...**
 <details>
-<summary> <b> <code> ... annual lab-wide meetings to review training and outcomes for “core skills”. </code> </b>  <br/>
+<summary> <b> <code> ... annual lab-wide meetings to review training and outcomes for "core skills". </code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> Researchers often focus on scientific progress and neglect the development of core skills, including team management, giving/receiving feedback, writing, presentations etc. An annual meeting for lab members, including the group leader, to discuss their efforts toward improving these skills not only normalizes the process, but also alerts other lab members to potential opportunities. <br/>
@@ -771,6 +789,7 @@ I understand that people decide to leave the lab for different reasons, and may 
 -Books and resources for self-education. <br/>
 -Group leader should discuss spending, grants and outlook for the future.<br/>
   <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/09-Core-Skills">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -785,7 +804,8 @@ I understand that people decide to leave the lab for different reasons, and may 
 -Sent out a regular update with the most recent lab developments information.<br/>
 -Discuss spending, grant applications, and outlook for the future.<br/>
 -Solicit feedback on grant applications and funding considerations.<br/>
-  </i>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/10-Lab-Updates">Click here for more examples from the community</a><br/>
+</i>
 </details>
 
 <details>
@@ -835,9 +855,9 @@ I understand that people decide to leave the lab for different reasons, and may 
 -What strategy do you use to store/archive data?<br/>
 -How do you keep your code organised?<br/>
 -If you realised you made an error at your work, how would you handle it?<br/>
--You suspect you’ve made an error in a procedure, how do confirm/refute this suspicion? <br/>
+-You suspect you've made an error in a procedure, how do confirm/refute this suspicion? <br/>
 -Are you familiar with the concept of 3R's? Can you briefly explain them?<br/>
 -Your believe your project overlaps with another lab member, how do you deal with this?<br/>
 -What would you do if you realised a colleague was mis-conducting their research?<br/>
-</i>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/11-Interview-Process">Click here for more examples from the community</a></i>
 </details>
