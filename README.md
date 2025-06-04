@@ -144,7 +144,6 @@ The institutional language at the Italian Institute of Technology is English; no
 &nbsp;&nbsp;&nbsp; 1.	Feature the SAFE Labs logo on your website.<br/>
 &nbsp;&nbsp;&nbsp; 2.	Join the SAFE Labs mailing list.<br/>
 &nbsp;&nbsp;&nbsp;   3.	Link to the SAFE Labs Handbook for accountability and feedback from lab members.<br/>
- <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/05-SAFE-Labs-Handbook">Click here for more examples from the community</a><br/>
 </i></details>
 
@@ -195,7 +194,7 @@ Counseling Services: Our institution offers free counseling services [Insert Lin
 <br/>
 Medical Services: Our institution's medical services can guide you to professional mental health resources. Please refer to [link, phone number] for details. Additionally, please consult the institute’s policy on sick leave [Insert Link].<br/>
 <br/>
-Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)].
+Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)].<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/07-Mental-Health">Click here for more examples from the community</a><br/>
 </i>
 </details>
@@ -292,7 +291,7 @@ Journal Club: On a rotating schedule, each lab member will present the core hypo
  <br/>
 1-on-1 Meetings: I schedule bi-weekly 1-on-1 in-person meetings which each lab member, typically lasting around 1 hour, during core work hours [details below]. These meetings are designed to support you in successfully implementing your research project. I am also available for additional meetings upon request. <br/>
  <br/>
-Yearly Appraisals: I will review your project's long-term progress and provide tailored feedback on your work performance during yearly appraisals. This is also an opportunity for you to give me feedback on your experience working in the lab, and under my supervision.
+Yearly Appraisals: I will review your project's long-term progress and provide tailored feedback on your work performance during yearly appraisals. This is also an opportunity for you to give me feedback on your experience working in the lab, and under my supervision.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/03-Meeting-Schedule">Click here for more examples from the community</a><br/>
 </i>
 </details>
@@ -490,7 +489,7 @@ Our team is composed by researchers with different roles: post-doctoral research
 <b>Example: </b> <br/>
   Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Insert Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing.
 
-Unless I am traveling, we will have our first 1-on-1 meeting during your first day in the lab. This will include a discussion of your project in the lab, but also guidance on how you can access all the information and lab policies specified in the SAFE Labs Lab Culture Handbook.
+Unless I am traveling, we will have our first 1-on-1 meeting during your first day in the lab. This will include a discussion of your project in the lab, but also guidance on how you can access all the information and lab policies specified in the SAFE Labs Lab Culture Handbook.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/05-Onboarding">Click here for more examples from the community</a><br/>
 </i>
 </details>
@@ -513,7 +512,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 <b>Example: </b> <br/>
 I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Insert Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or inter-personal issues [Insert Link].  <br/>
 <br/>
-The above policies pertain to communal lab resources. Individuals with their own grants which, for example, allow them to hire a technician or travel to conferences will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.
+The above policies pertain to communal lab resources. Individuals with their own grants which, for example, allow them to hire a technician or travel to conferences will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/06-Resource-Access">Click here for more examples from the community</a><br/>
 </i>
 </details>
@@ -554,7 +553,6 @@ The above policies pertain to communal lab resources. Individuals with their own
 -Celebrate all publications equally regardless of journal. <br/>
 -Acknowledge the element of luck in all scientific endeavours.<br/>
 -Avoid the phrase 'negative results': all results are discoveries; hypotheses can be falsified.<br/>
-  <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/08-Individual-Feedback">Click here for more examples from the community</a><br/>
 </i>
 </details>
@@ -570,7 +568,6 @@ The above policies pertain to communal lab resources. Individuals with their own
 -Each lab member could discuss a failed experiment, application, or endeavour.<br/>
 -Institute a prize for best failure, elected by general vote.<br/>
 - Celebrate experiments and efforts even when no new finding is produced.<br/>
-  <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/09-Normalise-Failures">Click here for more examples from the community</a><br/>
 </i>
 </details>
@@ -609,7 +606,6 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 &nbsp;&nbsp;&nbsp; 1. Discussion with supervisor in absence of student.<br/>
 &nbsp;&nbsp;&nbsp; 2. Project presentation by the PhD student.<br/>
 &nbsp;&nbsp;&nbsp; 3. Discussion with student in absence of supervisor.<br/>
-  <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/11-PhD-Committee">Click here for more examples from the community</a><br/>
 </i>
 </details>
@@ -787,7 +783,6 @@ I understand that people decide to leave the lab for different reasons, and may 
 -In the leadup to the meeting, draw attention to the resources available. <br/>
 -Books and resources for self-education. <br/>
 -Group leader should discuss spending, grants and outlook for the future.<br/>
-  <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/09-Core-Skills">Click here for more examples from the community</a><br/>
 </i>
 </details>
