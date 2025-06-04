@@ -146,6 +146,7 @@ The institutional language at the Italian Institute of Technology is English; no
 &nbsp;&nbsp;&nbsp; 2.	Join the SAFE Labs mailing list.<br/>
 &nbsp;&nbsp;&nbsp;   3.	Link to the SAFE Labs Handbook for accountability and feedback from lab members.<br/>
  <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/05-SAFE-Labs-Handbook">Click here for more examples from the community</a><br/>
 </i></details>
 
 **I commit to _internally document_ ...**
