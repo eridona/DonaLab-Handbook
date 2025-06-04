@@ -1,0 +1,45 @@
+# I commit to publicly document a diversity statement
+
+This page collects real-world examples of diversity statements from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own diversity statements here. To contribute, simply create a pull request adding your commitment under the appropriate country section. If you feel comfortable, you can include a link to your lab's website alongside your example, but this is entirely optional. Your examples will help other labs develop their own effective diversity statements!
+
+## Details
+Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds.
+
+## Suggestions
+- Make clear what are the institutional rules for maternity and paternity leave
+- Normalize specifying pronouns in email signatures and profiles (e.g. slack)
+- Encourage people to share and mark on the lab calendar crucial cultural events/festivities
+- Encourage attendance of EDI training
+- Discuss steps taken to facilitate diversity in applicants
+- During onboarding, discuss cultural needs (e.g. religious holidays, prayer facilities)
+- Dedicate some meetings (e.g. journal club) to papers addressing diversity in science
+- Consider diversity of voices when selecting papers in journal clubs
+
+## Examples
+
+### Austria
+[To be filled with specific examples from Austrian institutions]
+
+### Belgium
+[To be filled with specific examples from Belgian institutions]
+
+### France
+[To be filled with specific examples from French institutions]
+
+### Germany
+[To be filled with specific examples from German institutions]
+
+### Hong Kong
+[To be filled with specific examples from Hong Kong institutions]
+
+### Ireland
+[To be filled with specific examples from Irish institutions]
+
+### Italy
+[To be filled with specific examples from Italian institutions]
+
+### Netherlands
+[To be filled with specific examples from Dutch institutions]
+
+### United Kingdom
+[To be filled with specific examples from UK institutions]

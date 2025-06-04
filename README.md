@@ -48,10 +48,8 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 ## SAFE Policies
 **I commit to _publicly document_ ...**
 <details>
-<summary> <b> <code>... a diversity statement.</code> </b>  <br/>
-</summary>
-<br/>
-<i><b>Details: </b> Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds. <br/>
+<summary><b><code>... a diversity statement.</code></b><br/></summary>
+<i><b>Details: </b>Science is an international endeavour, which brings together people from many cultures. This statement is an opportunity to specify the steps you, and your institution, have taken to support a diversity of researchers with differing needs and backgrounds. <br/>
 <br/>
 <b>Suggestions:</b> <br/>
 -Make clear what are the institutional rules for maternity and paternity leave. <br/>
@@ -64,9 +62,11 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 -Consider diversity of voices when selecting papers in journal clubs. <br/>
   <br/>
 <b>Example: </b> <br/>
-We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment, we hire according to institutional affirmative action policies; we review the institutional rules for maternity and paternity leave when negotiating a contract; we discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, we promote diversity in science by selecting journal club papers from a diversity of voices.  We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.</i>
+We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment, we hire according to institutional affirmative action policies; we review the institutional rules for maternity and paternity leave when negotiating a contract; we discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, we promote diversity in science by selecting journal club papers from a diversity of voices.  We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.<br/>
+<a href="POLICIES/Diversity-Statement/README.md">Click here for more examples from the community</a><br/>
+</i>
+<br/>
 </details>
-
 <details>
 <summary> <b> <code>... the lab code of conduct: emphasise welfare, equity and integrity.</code> </b>  <br/>
 </summary>
@@ -132,13 +132,13 @@ The institutional language at the Italian Institute of Technology is English; no
 
 
 <details>
-<summary> <b> <code> ... my support for, and implementation of, the Lab Culture Handbook. </code> </b>  <br/>
+<summary> <b> <code> ... my support for, and implementation of, the SAFE Labs Handbook. </code> </b>  <br/>
 </summary>
 <br/>
 <i><b>Details: </b> This consists of three <b>required</b> steps: <br/>
 &nbsp;&nbsp;&nbsp; 1.	Feature the SAFE Labs logo on your website.<br/>
 &nbsp;&nbsp;&nbsp; 2.	Join the SAFE Labs mailing list.<br/>
-&nbsp;&nbsp;&nbsp; 3.	Link to the Lab Culture Handbook for accountability and feedback from lab members.<br/>
+&nbsp;&nbsp;&nbsp;   3.	Link to the SAFE Labs Handbook for accountability and feedback from lab members.<br/>
  <br/>
 </i></details>
 
@@ -213,8 +213,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 
 **I commit to _establish_ …**
 <details>
-<summary> <b> <code> ... a shared lab calendar for members to indicate if they are away, at conferences etc. </code> </b>  <br/>
-</summary>
+<summary><b><code>... a shared lab calendar for members to indicate if they are away, at conferences etc.</code></b><br/></summary>
 <br/>
 <i><b>Details: </b>  This not only makes it clear when regular meetings should be cancelled, or when a lab member should not be expected to respond to emails, but also normalizes the lab policy (whatever that may be) regarding conferences, remote working, vacation etc. <br/>
 <br/>
