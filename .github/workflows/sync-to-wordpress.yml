@@ -2,7 +2,7 @@ name: Sync to WordPress
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, development, integrate-website ]
   workflow_dispatch:
 
 jobs:
@@ -21,22 +21,30 @@ jobs:
     - name: Install dependencies
       run: pip install requests markdown
         
-    - name: Sync all markdown files to WordPress
+    - name: Sync markdown files to WordPress
       run: |
-        python << 'EOF'
+        python3 << 'EOF'
         import requests
         import os
         import markdown
+        import re
         
         # Configuration
         WORDPRESS_SITE = "https://safelabs.info"
         WORDPRESS_API_ENDPOINT = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/update-content"
-        BRANCH = "main"  # or get from environment
+        BRANCH = os.environ.get('GITHUB_REF_NAME', 'main')
         
         def convert_markdown_to_html(markdown_content):
             try:
-                md = markdown.Markdown(extensions=['extra', 'codehilite', 'toc'])
-                return md.convert(markdown_content)
+                cleaned_content = markdown_content
+                
+                # Remove LaTeX color commands
+                pattern = r'\$\{\\color\{[^}]+\}([^}]+)\}\$'
+                cleaned_content = re.sub(pattern, r'**\1**', cleaned_content)
+                
+                # Convert to HTML with table support
+                md = markdown.Markdown(extensions=['extra', 'tables', 'codehilite', 'toc'])
+                return md.convert(cleaned_content)
             except Exception as e:
                 print(f"Error converting markdown: {e}")
                 return f"<pre>{markdown_content}</pre>"
@@ -63,17 +71,16 @@ jobs:
         def find_markdown_files():
             markdown_files = []
             for root, dirs, files in os.walk('.'):
-                # Skip hidden directories
                 dirs[:] = [d for d in dirs if not d.startswith('.')]
                 for file in files:
                     if file.endswith('.md'):
                         file_path = os.path.relpath(os.path.join(root, file), '.')
-                        file_path = file_path.replace('\\', '/')  # Windows compatibility
+                        file_path = file_path.replace('\\', '/')
                         markdown_files.append(file_path)
             return markdown_files
         
         # Main execution
-        print("🚀 Starting sync...")
+        print(f"🚀 Starting sync from branch: {BRANCH}...")
         
         # Test WordPress connection
         test_url = f"{WORDPRESS_SITE}/wp-json/safe-github/v1/test"
@@ -97,10 +104,8 @@ jobs:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                # Convert to HTML
                 html_content = convert_markdown_to_html(content)
                 
-                # Update WordPress
                 result = update_wordpress_content(file_path, html_content, BRANCH)
                 if result['success']:
                     print(f"✅ Successfully synced {file_path}")
