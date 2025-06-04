@@ -1,6 +1,6 @@
 # SAFE Labs Handbook
 Note: the most readable version of this haWe believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment, we hire according to institutional affirmative action policies; we review the institutional rules for maternity and paternity leave when negotiating a contract; we discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, we promote diversity in science by selecting journal club papers from a diversity of voices.  We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.<br/>
-<a href="https://github.com/safeLearn/Lab-Handbook/tree/main/1-POLICIES/01-Diversity-Statement">Click here for more examples from the community</a><br/>book is available on the [SAFE Labs Website](https://safelabs.info/home/safe-labs-handbook) <br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/01-Diversity-Statement">Click here for more examples from the community</a><br/>book is available on the [SAFE Labs Website](https://safelabs.info/home/safe-labs-handbook) <br/>
 
 The importance of a positive work culture for wellbeing and productivity has become increasingly evident in recent years, but academic science still has a negative reputation in this area. To address this issue, we launched a dedicated, international workshop called ⁠“[SAFE Labs](https://coen-lab.com/safe-labs/)” in 2024, focused on understanding the key barriers to Starting Aware, Fair, and Equitable Labs. <br/>
 
@@ -64,7 +64,7 @@ _**Establish:**_ This requires implementing a new (if not already established) p
   <br/>
 <b>Example: </b> <br/>
 We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment, we hire according to institutional affirmative action policies; we review the institutional rules for maternity and paternity leave when negotiating a contract; we discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, we promote diversity in science by selecting journal club papers from a diversity of voices.  We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.<br/>
-<a href="https://github.com/safeLearn/Lab-Handbook/tree/main/1-POLICIES/01-Diversity-Statement">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/01-Diversity-Statement">Click here for more examples from the community</a><br/>
 </i>
 <br/>
 </details>
@@ -82,7 +82,7 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 <br/>
 <b>Example: </b> <br/>
 All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other’s points of views and contributions to discussions, being timely for meetings, and actively engaging in each other’s presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment.<br/>
-<a href="https://github.com/safeLearn/Lab-Handbook/tree/main/1-POLICIES/02-Code-Of-Conduct">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/02-Code-Of-Conduct">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -108,7 +108,7 @@ Travel: I encourage sustainable transport options both for long-haul travel and 
 Recycling: To minimize the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We equip our lab with additional recycling bins and take responsibility for disposing of the recovered recyclables according to local <br/>regulations.
 <br/>
 Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.<br/>
-<a href="https://github.com/safeLearn/Lab-Handbook/tree/main/1-POLICIES/03-Green-Initiatives">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/03-Green-Initiatives">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
@@ -132,7 +132,7 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Feel free to use LLMs to proofread and refine written text. However, fully AI generated text is not acceptable. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone present to participate. <br/>
 <br/>
 The institutional language at the Italian Institute of Technology is English; nonetheless, many administrative exchanges and Italian bureaucracy are still in Italian. Proficiency in Italian is therefore useful within the institute, as well as when traveling throughout the country. Please refer to the lab Wiki to access learning resources.<br/>
-<a href="https://github.com/safeLearn/Lab-Handbook/tree/main/1-POLICIES/04-Lab-Language">Click here for more examples from the community</a><br/>
+<a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/04-Lab-Language">Click here for more examples from the community</a><br/>
 </i>
 </details>
 
