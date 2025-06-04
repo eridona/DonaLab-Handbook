@@ -17,8 +17,8 @@ Besides inspiring new group leaders, a key goal of the handbook is to increase t
 
 Why should group leaders implement the handbook? (At least) 3 reasons: <br/>
 
-1.	They care about improve lab culture
-2.	It advertises that care to lab members and funders
+1.	They care about improving lab culture
+2.	It signals to lab members and funders that the leader cares
 3.	It reduces inter-personal friction and conflict
 
 This handbook does not represent an optimal or exhaustive template: it is the product of thirteen group leaders who are all passionate about improving lab culture, and are all fallible. Although this handbook will not solve every problem, we hope it takes a significant step toward addressing key challenges faced in daily lab life. The handbook will improve through community feedback and further dedicated workshops. <br/>
