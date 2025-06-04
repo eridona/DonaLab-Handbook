@@ -143,7 +143,7 @@ The institutional language at the Italian Institute of Technology is English; no
 <i><b>Details: </b> This consists of three <b>required</b> steps: <br/>
 &nbsp;&nbsp;&nbsp; 1.	Feature the SAFE Labs logo on your website.<br/>
 &nbsp;&nbsp;&nbsp; 2.	Join the SAFE Labs mailing list.<br/>
-&nbsp;&nbsp;&nbsp;   3.	Link to the SAFE Labs Handbook for accountability and feedback from lab members.<br/>
+&nbsp;&nbsp;&nbsp;   3.	Link to the SAFE Labs Handbook for accountability and feedback from lab members.
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/05-SAFE-Labs-Handbook">Click here for more examples from the community</a><br/>
 </i></details>
 
@@ -194,7 +194,7 @@ Counseling Services: Our institution offers free counseling services [Insert Lin
 <br/>
 Medical Services: Our institution's medical services can guide you to professional mental health resources. Please refer to [link, phone number] for details. Additionally, please consult the institute’s policy on sick leave [Insert Link].<br/>
 <br/>
-Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)].<br/>
+Crisis Hotlines: If you or someone you know is in immediate need of support, please contact the National Crisis Hotlines at [phone number(s)]. <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/07-Mental-Health">Click here for more examples from the community</a><br/>
 </i>
 </details>
@@ -228,7 +228,6 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 <b>Suggestions:</b> <br/>
 -Clear instructions for reporting different statuses (e.g. vacation vs conference attendance).<br/>
 -What specific details should be reported? (e.g. half-day vs full day).<br/>
-  <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/09-Shared-Calendar">Click here for more examples from the community</a><br/>
   </i>
 </details>
@@ -240,7 +239,6 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 </summary>
 <br/>
 <i><b>Details: </b> A clear and current list of lab members allows prospective applicants to gauge the size and composition of the lab. Unless otherwise requested, <b> contact details for each person should be included.</b> Adding alumni indicates the range of roles that lab members move into after leaving, and provides an avenue to gain more information about joining, working in, and leaving the lab. <br/>
-<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/01-Lab-Members-List">Click here for more examples from the community</a><br/>
   </i>
 </details>
