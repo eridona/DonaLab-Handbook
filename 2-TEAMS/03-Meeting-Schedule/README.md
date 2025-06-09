@@ -42,4 +42,8 @@ Labs often have a variety of regular meetings, including 1-on-1 meetings, lab me
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ At the time of writing, the lab meets as a group twice per week, on Tuesdays and Thursdays at 10am–pastries are provided! These are typically Journal Clubs (presentation of a paper) on Tuesdays and Data Clubs (update on a project) on Thursdays. However, meetings are sometimes focused on other lab business, including training, external speakers, feedback sessions, or mini-hackathons.
+>
+>The expectations for regular meetings are laid out in detail on our lab wiki, but most meetings have a presenter, responsible for leading the meeting, and someone taking notes on the content. All group meetings are in-person events, although we record meetings online for posterity, and to allow participation from those who can’t attend in person.
+>
+>Individually, I meet with every lab member at least once per week, unless one of us is out of town, to discuss their project and any other issues. After each meeting, lab members write a brief summary of the meeting to ensure that the discussion is recorded, and to serve as a starting point for the next meeting.

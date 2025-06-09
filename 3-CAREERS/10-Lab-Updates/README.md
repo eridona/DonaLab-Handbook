@@ -42,4 +42,4 @@ Lab members are often considering academia as a potential career. It informs tha
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]

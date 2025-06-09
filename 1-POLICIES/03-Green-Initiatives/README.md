@@ -40,4 +40,10 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+>
+>Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-haul trips, when funding allows, I will cover the most sustainable travel option. I also recognise remote-working hours spent productively on sustainable means of transport during private (non-work-related) trips. Lab members are also encouraged to combine their work trips with other activities to reduce future emissions, like visiting related labs or institutes in the local area, or simply taking a holiday. I incentivize sustainable options for daily commute: PhD students benefit from reduced costs on public transportation across, and all staff can participate in UCL’s cycle scheme to purchase a bike through salary sacrifice (meaning that the effective cost is reduced and spread over time).
+>
+>Recycling: To minimize the environmental impact of lab waste, we avoid mixing truly contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. We recycle waste whenever possible, and order equipment from local companies when the difference in cost is minimal.
+>
+>Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.

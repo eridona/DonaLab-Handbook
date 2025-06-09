@@ -41,5 +41,5 @@ English is the international language of science in the 21st century: proficienc
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Feel free to use LLMs to proofread and refine written text. However, fully AI generated text is not acceptable. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allows everyone present to participate.
 

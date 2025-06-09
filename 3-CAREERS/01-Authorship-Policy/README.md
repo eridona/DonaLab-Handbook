@@ -41,4 +41,4 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.

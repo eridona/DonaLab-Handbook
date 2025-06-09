@@ -46,4 +46,9 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ No lab is perfect, and individuals may have concerns about lab operations or another member's behaviour. Issues can arise for many reasons, and addressing them promptly almost always leads to better outcomes for everyone involved. The procedure for raising these issues is:
+>
+>1. If comfortable doing so, raise the issue with Pip at the earliest opportunity.
+>2. Alternatively, please raise the issue anonymously by using this form (anonymous comment form).    
+>3.  If external involvement would be beneficial, contact your mentor (if a post doc) or your secondary advisor (if a PhD student).
+>4. If none of the above steps feel appropriate, raise the issue with [UCL Report & Support](https://report-support.ucl.ac.uk/).

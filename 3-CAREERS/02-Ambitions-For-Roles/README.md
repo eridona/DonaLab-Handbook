@@ -40,4 +40,8 @@ Science is impossible to predict, and no one can guarantee the outcome of a give
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:
+>
+>PhD students in the UK typically graduate ~3-4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it may be possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.
+>
+>Postdoctoral researchers typically join the lab with an initial contract, and the length of that contract depends on both the source of funding and their proposed project. All positions in the university are also subject a twelve-month probationary period. I will be transparent about these restrictions in the initial job advertisement, and in discussions with any applicant. I aim to propose projects (in discussion with the researcher) to maximise the chance of a publication within the initial contract’s timeframe. At least one year before the end of the contract period, I will discuss the next steps with the researcher, which may include the option to stay longer in the lab (with or without applying for their own funding).

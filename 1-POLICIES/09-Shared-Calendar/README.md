@@ -47,4 +47,8 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ UCL is Microsoft-based. Unfortunately, we are tied into this system. Therefore, the lab calendar is “outlook” and please only access/change it via outlook. Using Google or other third-party software can cause issues (e.g. you think you edited an event, but you didn’t). The following entries should be included in the lab Calendar: 
+>- Attend in Person (AIP) Events: Lab meetings, Journal Clubs etc.
+>- For your information (FYI) Events: Talks, deadlines, meetings etc.
+>
+>Please indicate when you are away from lab according to the following entries...

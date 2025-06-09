@@ -39,5 +39,9 @@ Thankfully, awareness and support for mental health issues within work environme
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ Remember to care for your mental health and seek support when needed. UCL's Employee Assistance Programme offers confidential, 24/7 mental health support from trained professionals in seconds: by Freephone - 0808 196 5808.
+>
+>- [Support within UCL](https://www.ucl.ac.uk/human-resources/health-wellbeing/find-support)
+>- [Free external support services](https://www.ucl.ac.uk/human-resources/health-wellbeing/external-resources#f2f-suicidal)
+>- [How to support others](https://www.ucl.ac.uk/human-resources/health-wellbeing/healthy-mind/supporting-colleagues#guidance-support-others)
 

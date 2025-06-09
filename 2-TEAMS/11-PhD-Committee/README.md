@@ -45,4 +45,4 @@ A PhD steering committee provides independent oversight of PhD student progress 
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]

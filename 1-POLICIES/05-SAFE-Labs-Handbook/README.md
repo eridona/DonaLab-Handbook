@@ -44,4 +44,4 @@ This consists of three required steps:
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ The SAFE Labs handbook is a document co-authored by Pip and other group leaders across Europe in 2024 (and is continually updated). You can read more details of the handbook here. Many of the commitments involve publicly documenting important material. Here, I provide links to the location of all that material (if a link is missing, the information has yet to be documented).

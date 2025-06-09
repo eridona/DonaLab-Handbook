@@ -47,4 +47,13 @@ Bullying and harassment are serious allegations and entirely unacceptable in any
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+> _[CoenLab_2025](https://coen-lab.com/):_ Harassment is unwanted behaviour which you find offensive or which makes you feel intimidated or humiliated on the basis of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
+> 
+> Bullying and harassment are unacceptable. If you witness or are subjected to anything that may fit their description, then tell someone who can do something.
+> 
+> Below are people you can approach with confidence:
+> 
+> - Your Line manager/Supervisor
+> - [Dignity Advisors](https://www.ucl.ac.uk/equality-diversity-inclusion/dignity-ucl/dignity-advisors)
+> - Anonymous: [Report and Support](https://report-support.ucl.ac.uk/)
+> - For PhD students: [Graduate Tutors](https://www.grad.ucl.ac.uk/essinfo/ddGradTuts.pht)
