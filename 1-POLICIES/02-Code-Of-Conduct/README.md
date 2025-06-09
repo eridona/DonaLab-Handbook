@@ -38,4 +38,4 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+_[CoenLab_2025](https://coen-lab.com/):_ Lab members must maintain professional integrity, accountability, and mutual respect in all interactions while upholding high scientific standards and fostering collaboration. This includes respecting others’ viewpoints during discussions, arriving on time for meetings, and engaging actively with presentations. Everyone must contribute to an inclusive environment characterized by compassionate behaviour and free from any discriminatory conduct—especially regarding gender, race, sexuality, or disability. Lab members should feel safe to express their ideas, wishes, or concerns without fear of negative consequences, ensuring a supportive environment.
