@@ -42,4 +42,4 @@ Science is an international endeavour, which brings together people from many cu
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+_[CoenLab_2025](https://coen-lab.com/):_ I believe diversity is a valuable resource, and I strive to create a psychologically safe environment where different points of view are welcomed. To foster diversity and inclusion, I hire in accordance with UCL’s Fair Recruitment policy, discuss cultural needs during onboarding, and encourage lab members to mark important cultural events on the lab calendar. I promote diversity in science by selecting journal club papers from varied voices and institutions. Through these policies, I aim to welcome individuals from diverse cultural, socioeconomic, gender, and geographical backgrounds to our group.
