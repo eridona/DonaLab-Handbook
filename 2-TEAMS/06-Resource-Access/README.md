@@ -45,4 +45,4 @@ Most lab members will quickly recognize any disparities of time and resource inv
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
+[To be filled with specific examples from UK institutions]

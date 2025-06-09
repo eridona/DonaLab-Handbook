@@ -41,4 +41,10 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ All lab members have 1-on-1 meetings with Pip every week. In **January**, one of these meetings will be dedicated to bilateral feedback. A form will be provided, with sections to be completed before, during, and after, the meeting.
+>
+>The goal of these sessions is to provide a dedicated meeting for reflection and mutual growth. It *does not* mean you should refrain from providing feedback at other times of the year (if you feel uncomfortable doing this directly, there is an *anonymous feedback form* available.
+>
+>Before these sessions, it is most helpful you not only think about areas for potential improvement, but also *how* you would like those improvements to be achieved.
+>
+>Pip will not necessarily be able, or willing, to implement all suggested changes. However, when something will not be implemented—or partially so—he will discuss the reasoning behind these decisions with you. If he fails to do this, please tell him and assume incompetence rather than malice!

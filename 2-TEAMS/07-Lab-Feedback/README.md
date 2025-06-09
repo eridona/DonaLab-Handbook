@@ -39,4 +39,6 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ Annual lab-wide feedback takes place at the Lab Retreat. As the size of the lab changes, and we learn from experience at past retreats, the exact method of collecting feedback and reporting the result will evolve with time. However, in each case, there will we a post-feedback summary recorded for posterity so that any repeating themes or recurring issues can be transparently highlighted. Pip will also record any changes that he intends to implement, along with any suggestions that he will not (or only partially) implement, along with the reasoning behind these decisions.
+>
+>These records can be found below:

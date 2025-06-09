@@ -42,4 +42,4 @@ For international lab members, visa costs and processes can be a significant bar
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ If you do not have the right-to-work in the UK (either as a UK citizen, or through a different scheme) you will likely need a visa to join the lab as a postdoctoral researcher, or similar position. Information about visas can be found on the UCL website here. Visas, such as the skilled worker visa (most common for postdoctoral researchers) come with significant upfront costs. Some of these costs can be covered by UCL. Often, the full costs can be covered–including costs for partners and family members. However, this is not always the case, and does depend on the source of finds being used to hire a lab member. If this information is not clear from a job advertisement, or you are interested in applying for a position via an external grant or fellowship, please raise your concerns with Pip directly.

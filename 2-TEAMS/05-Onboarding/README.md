@@ -44,5 +44,27 @@ A clear onboarding process should not only ensure that lab members complete esse
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
-
+>_[CoenLab_2025](https://coen-lab.com/):_ These are some initial admin steps that *should* happen (some even before you arrive at UCL). If you've been in the lab for a week and any of these haven't been covered, ask someone!
+>
+>- Sign a contract/enroll
+>- Get added to payroll
+>- Schedule weekly One-on-One meeting with Pip
+ >   - Make sure you have your own notion page
+>- Create your own lab notebook in the lab repo
+>- Get your UCL ID, email and access card
+>- Add you information to the Lab Members database
+>- Arrange a desk and computer set up that works for you
+>- Get your Personal License (PIL) for animal work
+>    - Get an induction to the BSU and complete schedule 1 training
+>- Fire and health and safety inductions
+>- Get added to:
+ >   - The Lab Calendar
+ >   - Mailing list (which gives access to OneDrive, order sheets, etc.)
+ >   - The lab Splitwise
+ >   - Lab slack (and change your image from the default!)
+ >   - Anat4 slack (and change your image from the default!)
+ >   - Lab notion—if you can see this, you are added already ;)
+ >  - Lab Fusion 360 workspace for CAD modelling.
+>- Set up a health test with occupational-health-services (required for access to BSU)
+>- Get an account on the Lab Server and make sure you can login.
+>- Complete all online mandatory courses

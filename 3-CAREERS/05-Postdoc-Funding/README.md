@@ -42,4 +42,7 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ Any advertised postdoctoral position is fully funded for the duration specified on the job advertisement. However, all postdocs are required to apply for funding and fellowships when accepting a position in the lab. This is for three reasons:
+>1. It helps to crystalise their project approach and hypotheses
+>2. Fellowships are valuable additions to a researcher’s CV
+>3. It can provide additional funding for professional activities (e.g. travel)

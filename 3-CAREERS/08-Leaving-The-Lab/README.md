@@ -47,4 +47,4 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
+[To be filled with specific examples from UK institutions]

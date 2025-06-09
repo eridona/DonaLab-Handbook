@@ -40,4 +40,4 @@ A clear and current list of lab members allows prospective applicants to gauge t
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/people/):_
+>_[CoenLab_2025](https://coen-lab.com//):_ [Lab members page](https://coen-lab.com//)

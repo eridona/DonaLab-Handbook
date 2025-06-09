@@ -42,4 +42,4 @@ We are all familiar with the experience of joining a new lab whilst still having
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ It is completely normal for researchers, particularly postdoctoral researchers, to join the lab while still having outstanding work from their previous position, and I support lab members taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last more than 6 months. If finishing previous work is expected to last longer than this, it may be more sensible to delay the start of their position in the lab if possible. In general, time spent on previous work should not exceed 25% (although this will naturally vary over time).

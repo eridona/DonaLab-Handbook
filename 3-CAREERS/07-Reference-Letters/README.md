@@ -42,4 +42,8 @@ Career progression, grants, and competitive applications often require reference
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-_[CoenLab_2025](https://coen-lab.com/):_ [To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ To guarantee that Pip provides your letter, **you must give at least 2 weeks notice**. 
+>
+>Mistakes do happen, and if you do not give 2 weeks notice, Pip will of course try to accommodate your needs. However, this cannot be guaranteed—particularly if it is the first letter you are asking for—and it is your responsibility to monitor deadlines and notify Pip in advance.
+>
+>For his part, Pip will write, and personalize all reference letters. When appropriate (e.g. for a Masters project where the student works closely with a postdoc) Pip may write the letter in collaboration with a lab member, and co-sign the letter with them.
