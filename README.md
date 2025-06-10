@@ -1,34 +1,56 @@
 # SAFE Labs Handbook
-Note: the most readable version of this handbook is available on the [SAFE Labs Website](https://safelabs.info/home/safe-labs-handbook/) <br/>
 
-The importance of a positive work culture for wellbeing and productivity has become increasingly evident in recent years, but academic science still has a negative reputation in this area. To address this issue, we launched a dedicated, international workshop called ⁠“[SAFE Labs](https://coen-lab.com/safe-labs/)” in 2024, focused on understanding the key barriers to Starting Aware, Fair, and Equitable Labs. <br/>
+📖 For the most readable version of this handbook, visit the [SAFE Labs Website](https://safelabs.info/home/safe-labs-handbook/).
 
-Here, we focus on two key barriers that we decided we could immediately address: <br/>
+---
 
-1. Although many group leaders are passionate about improving lab culture, there isn’t an established resource with actionable advice. Instead, existing training and resources typically provide general advice. 
-2. Policies implemented by group leaders are not documented (neither publicly nor internally), making it difficult for lab members to influence their environment or hold the group leader accountable. This may also create expectation mismatch between prospective group members and the group leader. <br/>
+Creating a fair, transparent, and inclusive research environment is increasingly recognised as essential for academic success and well-being. Yet, many academic labs still struggle with unclear expectations, unequal experiences, and a lack of documented practices. In 2024, we launched the **SAFE Labs (Starting Aware, Fair, and Equitable)** initiative to address these persistent gaps—starting where change is most feasible: within individual labs (https://safelabs.info/).
 
-In response to this need, the 13 attendees of SAFE Labs co-authored this handbook. It presents core commitments that span different topics: Policies, Teams, and Careers. No commitment relies on institutional support to implement, and all commitments are actionable, and can be verifiably implemented. This is because:
--	Implementable commitments are the most helpful to group leaders and lab members.
--	Verifiable commitments allow for accountability and specific feedback.
-For example, “I commit to supporting a healthy work-life balance for my lab members” will not be in this handbook because the commitment cannot be verified. <br/>
+The **SAFE Labs Handbook** is a practical tool co-authored by 13 new group leaders from across Europe. It contains **30 concrete, verifiable commitments** that support better lab culture—grouped into three categories: **Policies, Teams, and Careers**. Every commitment is designed to be implemented **without requiring institutional support**, making them immediately actionable for any lab leader.
 
-Besides inspiring new group leaders, a key goal of the handbook is to increase transparency and minimise any expectation mismatch between the group leader and lab members, fostering a positive and equitable lab culture. **We recognise that there are many viable strategies to run a research group**, and that challenges and constraints vary across groups, institutions, and countries. Therefore, the core commitments can be adopted as presented, or tailored to each lab research strategy, institution and country. We encourage suggestions for new policies and invite discussion for new ideas. <br/>
+We focus on two major barriers that the handbook directly addresses:
 
-Why should group leaders implement the handbook? (At least) 3 reasons: <br/>
+1. **Lack of actionable resources**: Existing guidance for lab leadership is often vague or aspirational. The SAFE Labs Handbook provides clear, specific actions.
+2. **Lack of documented policies**: Many lab practices are informal or undocumented, leading to misaligned expectations and limited accountability.
 
-1.	They care about improving lab culture
-2.	It signals to lab members and funders that the leader cares
-3.	It reduces inter-personal friction and conflict
+Each commitment in the handbook is:
 
-This handbook does not represent an optimal or exhaustive template: it is the product of thirteen group leaders who are all passionate about improving lab culture, and are all fallible. Although this handbook will not solve every problem, we hope it takes a significant step toward addressing key challenges faced in daily lab life. The handbook will improve through community feedback and further dedicated workshops. <br/>
+* **Actionable**: Designed to result in real, visible changes.
+* **Verifiable**: Implementation can be demonstrated, enabling accountability and feedback.
 
-HELP US! Please fill out our survey to improve and evaluate the handbook!
-<br/>
+> For example, instead of vague statements like “support work-life balance,” we recommend a commitment to *publicly document working hour expectations, vacation policies, and remote work options*.
 
-We hope many labs will engage with the SAFE Labs Handbook: those who implement—or intend to implement within 3 months—all commitments, should feature the SAFE Labs logo on their website and should register for the SAFE Labs mailing list.<br/>
+While the handbook was designed to guide new PIs, it can benefit leaders at any stage. It helps establish shared expectations, reduce interpersonal friction, and signal to prospective lab members—and funders—that a group leader values culture as much as science.
 
-In the longer term, we imagine the SAFE Labs Handbook as a versatile tool in academia. For example, institutions can use their “proportion of SAFE Labs” to monitor, and improve, their research culture (e.g. as a KPI). Funders could recognise (or even require) SAFE Labs compliance as an desired indicator of aware, fair, and equitable labs. We also envision an institutional handbook: actionable commitments for institutions to improve lab culture. <br/>
+---
+
+### Why implement the SAFE Labs Handbook?
+
+✅ You care about fostering a healthier, more equitable research environment
+✅ It builds trust with your team and signals integrity to external stakeholders
+✅ It minimizes confusion, mismatched expectations, and avoidable conflict
+
+---
+
+This handbook is not a one-size-fits-all solution. Every lab is different—and that’s the point. The commitments are **meant to be adapted**, and we actively welcome suggestions and community feedback to expand and refine the resource.
+
+If your lab has implemented—or plans to implement—all handbook commitments within three months, you are encouraged to:
+
+* Display the **SAFE Labs logo** on your website
+* Join the SAFE Labs [mailing list](https://safelabs.info/)
+
+Looking ahead, we envision the SAFE Labs Handbook becoming:
+
+* A **tool for institutions** to track and promote positive culture (e.g., as a KPI)
+* A **standard for funders** to identify and support healthy lab environments
+* A foundation for an **institutional-level handbook**, to drive systemic change
+
+Let’s build a culture in science that supports people as well as progress. 🌱
+
+---
+
+Let me know if you'd like a shorter version for a README preview or if you’d like to include badges or contribution guidelines.
+
 
 
 ## Sections for each commitment:
@@ -529,7 +551,7 @@ The above policies pertain to communal lab resources. Individuals with their own
 -New group leaders could combine lab retreats/lab meetings to improve feedback.  <br/>
 -Communicate feedback decisions and if suggestions are not implemented, explain why.  <br/>
 -Follow up on feedback implementation.
-  <br/> 
+  <br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/07-Lab-Feedback">Click here for more examples from the community</a><br/>
 </i>
 </details>
