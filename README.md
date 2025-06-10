@@ -47,12 +47,6 @@ Looking ahead, we envision the SAFE Labs Handbook becoming:
 
 Let’s build a culture in science that supports people as well as progress. 🌱
 
----
-
-Let me know if you'd like a shorter version for a README preview or if you’d like to include badges or contribution guidelines.
-
-
-
 ## Sections for each commitment:
 _**Details:**_ Here we include more details on the commitment, including the reasoning behind it, and any requirements (e.g. if a statement must include a particular piece of information).<br/>
 <br/>
