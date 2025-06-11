@@ -52,7 +52,7 @@ _**Details:**_ Here we include more details on the commitment, including the rea
 <br/>
 _**Suggestions:**_ We may include suggestions of aspects that should be considered when fulfilling the commitment. These may contain multiple alternatives and are not requirements.<br/>
 <br/>
-_**Example:**_ We may include an example (e.g. for a documented statement). These can be copied, used as guides, or completely changed. Their relevance may vary due to country/institutional differences. <br/>
+_**Template:**_ We may include an example (e.g. for a documented statement). These can be copied, used as guides, or completely changed. Their relevance may vary due to country/institutional differences. <br/>
 _**Community examples:**_ A collection of real-world examples of diversity statements from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own diversity statements here. <br/>
 ## Key terminology:
 _**Publicly Document:**_ A written record on the lab website that is visible to anyone. This allows applicants to make informed decisions, and minimizes expectation mismatch. Publicly documenting traditionally obscured information can be uncomfortable—it was for us. For each commitment, we asked ourselves: Would this information be useful if I were applying to a lab? Is there a strong reason to withhold this information? We hope you agree with our classifications, but if not, tell us why!<br/>
@@ -78,7 +78,7 @@ _**Establish:**_ This requires implementing a new (if not already established) p
 -Dedicate some meetings (e.g. journal club) to papers addressing diversity in science. <br/>
 -Consider diversity of voices when selecting papers in journal clubs. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment, we hire according to institutional affirmative action policies; we review the institutional rules for maternity and paternity leave when negotiating a contract; we discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, we promote diversity in science by selecting journal club papers from a diversity of voices.  We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/01-Diversity-Statement">Click here for more examples from the community</a><br/>
 </i>
@@ -96,7 +96,7 @@ We believe that diversity is a resource to harness, and we strive to create a ps
 -Require engagement with presentations, opinions, and requests from other members. <br/>
 -Avoid exclusive communication channels (e.g. cc everyone when applicable). <br/>
 <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other’s points of views and contributions to discussions, being timely for meetings, and actively engaging in each other’s presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members are free to voice their ideas, wishes, or concerns without risking negative consequences ensuring a psychologically safe environment.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/1-POLICIES/02-Code-Of-Conduct">Click here for more examples from the community</a><br/>
 </i>
@@ -116,7 +116,7 @@ All lab members are expected to maintain a professional attitude of integrity, a
 -Donate unused equipment within/outside the institutions.  <br/>
 -Highlight schemes that incentivise sustainable commuting (e.g. cycle schemes). <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment. <br/>
 <br/>
 Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, I will cover the most sustainable travel option (up to double the price of the cheapest alternative). I also recognise remote-working hours spent productively on sustainable means of transport during private (non-work related) trips. I incentivize sustainable options for daily commute: PhD students enrolled at University of Trento benefit from free public transportation across the Trentino region; all the lab members can participate in an annual contest where commuting milage is logged and scored according to sustainability of the means of transport, the person who accrues the most points wins.<br/>
@@ -144,7 +144,7 @@ Economical use of equipment: when possible and not detrimental our instruments, 
 -Document lab policy about using LLMs (i.e. ChatGPT) to improve written output. <br/>
 -Address language barriers in meetings, adopting formats of Q/A that facilitate feedback. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Feel free to use LLMs to proofread and refine written text. However, fully AI generated text is not acceptable. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone present to participate. <br/>
 <br/>
 The institutional language at the Italian Institute of Technology is English; nonetheless, many administrative exchanges and Italian bureaucracy are still in Italian. Proficiency in Italian is therefore useful within the institute, as well as when traveling throughout the country. Please refer to the lab Wiki to access learning resources.<br/>
@@ -176,7 +176,7 @@ The institutional language at the Italian Institute of Technology is English; no
 -Document institutional procedures for reporting and any supporting body/resources available. <br/>
 -Disseminate and value training events offered by the institution. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 Students and trainees who feel they have experienced or witnessed bullying harassment or sexual misconduct by another student may make a formal report to XXXX by email. This process may also be initiated through Human resources, the lab manager, or group leader.  <br/>
 <br/>
 Members of staff who feel they have experienced or witnessed bullying, harassment or sexual misconduct may make a formal complaint against a staff member by using the Staff Grievance Policy or they may make a formal complaint against a student by contacting XXXX by email. <br/>
@@ -204,7 +204,7 @@ Where the Reporting Party is told the outcome they will be asked to respect conf
 -Highlight the institutional policy on mental health and sick leave. <br/>
 -Promote good practices to safe-guard mental health (e.g. work-life balance).  <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 Mental well-being is crucial for personal and professional success, especially given the prevalence of mental health challenges in academia (https://doi.org/10.1038/nbt.4089). High productivity doesn’t equate to overwork. Lab members are encouraged to manage their productivity responsibly and are not expected to exceed working regular work hours. If you feel comfortable, I encourage you to discuss any personal challenges that may affect your work during our 1-on-1 meetings. If you need additional support, I encourage you to consider the following resources:<br/>
 <br/>
 Counseling Services: Our institution offers free counseling services [Insert Link] and free 1-on-1 coaching [Insert Link] for all students and employees. Please also consult the institute’s resources on a healthy work-life balance [Insert Link].<br/>
@@ -227,7 +227,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 -Specify a reporting procedure that circumvents you if necessary. <br/>
 -Provide an avenue for lab members to raise concerns with you anonymously. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 &nbsp;&nbsp;&nbsp; 1.	If comfortable doing so, request a meeting to raise the issue with the group leader. <br/>
 &nbsp;&nbsp;&nbsp; 2.	If not, please raise the issue anonymously by using this form. <br/>
 &nbsp;&nbsp;&nbsp; 3.	If external involvement would be beneficial, contact our dedicated external advisor. <br/>
@@ -273,7 +273,7 @@ Crisis Hotlines: If you or someone you know is in immediate need of support, ple
 -Should lab members schedule messages if sent outside of working hours? <br/>
 -What times are appropriate times for scheduling meetings? <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 I am committed to creating a healthy work environment for all lab members that prioritises mental health and wellbeing. Academic neuroscience should be an exciting, rewarding, and engaging job. Certainly, it can be challenging, and stressful at times, but it should not be depressing, or life-consuming. I anticipate all lab members taking a minimum of XXX's prescribed 41 days of annual leave. "Minimum" because if experiments necessitate working on a weekend, or you attend a conference that's scheduled on a weekend, I support lab members taking time off to compensate for this. I hope to schedule all meetings within UCL's "core" work hours of 10am to 4pm. And I will refrain from sending, or answering, non-urgent emails/messages outside of work hours.<br/>
   <br/>
   All full-time lab members should aim to work onsite at least four days a week. I expect this number to reduce (probably to "three")  once the lab is operational and more time is being spent analysing data rather than building rigs/training mice. In general, I believe that some regular onsite presence is important to maintain the lab community. However, I am happy to support intermittent periods of fully-remote working when, for example, traveling/visiting family abroad or writing up a thesis/grant.<br/>
@@ -297,7 +297,7 @@ I am committed to creating a healthy work environment for all lab members that p
 &nbsp;&nbsp;&nbsp; 4. Have a meeting facilitator and/or note taker; rotate among lab members.<br/>
 -Conduct regular team-building activities (e.g. lab retreat, dinners, celebrations).<br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 Discussing scientific progress is essential for the success of our projects. I expect all lab members to actively participate in our scheduled meetings: <br/>
  <br/>
 Lab Meetings: Each lab member will host our weekly lab meeting on a rotating schedule, presenting an informal progress report. These reports, lasting 20-30 minutes, should succinctly introduce your project, highlight the main research questions, and focus on recent achievements and challenges. This allows for productive group discussions to advance your project. Lab meetings are typically held once per week within core working hours, lasting 60 to 90 minutes. Progress report presentations are accessible via our lab’s shared resources. <br/>
@@ -326,7 +326,7 @@ Yearly Appraisals: I will review your project's long-term progress and provide t
 -Does the role involve house-keeping tasks?<br/>
 -What level of supervision/training will be offered?<br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 Our team is composed by researchers with different roles: post-doctoral researchers, PhD students, undergraduate (Master or Bachelor) students and research assistants/engineers. These roles, which may correspond to different career stages and seniority, typically come with different duties and responsibilities. Typical responsibilities are summarised by the table below. Exceptions may be made in discussion with me—typically during onboarding.
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/2-TEAMS/04-Responsibilities">Click here for more examples from the community</a><br/>
 </i>
@@ -501,7 +501,7 @@ Our team is composed by researchers with different roles: post-doctoral research
 -Mandatory institutional courses.<br/>
 -Pairing with a “lab buddy” to act as a point of contact etc.<br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
   Arriving in a new lab, town, and often country can be a challenging process. The lab has developed an onboarding procedure to help make this process go as smoothly as possible. There are institutional administrative activities that must be performed, and these are listed on the Wiki, along with details about how to complete them [Insert Link]. In addition, every new lab member is paired with a “lab buddy” (an existing member of the lab) who will arrange for you to meet each lab member individually and hear about the work they are doing.
 
 Unless I am traveling, we will have our first 1-on-1 meeting during your first day in the lab. This will include a discussion of your project in the lab, but also guidance on how you can access all the information and lab policies specified in the SAFE Labs Lab Culture Handbook.<br/>
@@ -524,7 +524,7 @@ Unless I am traveling, we will have our first 1-on-1 meeting during your first d
 -Prioritise publications based on agreed plan rather than impact. <br/>
 -Document the feedback process to report any perceived inequalities. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 I strive to ensure that all lab members in the same role have access to the resources they need to complete their project and advance their career. These include the financial resources to purchase equipment and attend conferences, sufficient access to shared resources (e.g. microscopes and behavioural rigs), and time/help from lab technicians and engineers. Anticipated resource requirements will be discussed at onboarding, and I keep a record of expenditure on different projects to ensure there are no major discrepancies. We have established systems for booking shared equipment and technician hours [Insert Link] which act as a historical record to ensure that these resources are not unfairly distributed. If you perceive any inequalities in the distribution of lab resources, please raise your concerns with me according to the procedure for raising lab or inter-personal issues [Insert Link].  <br/>
 <br/>
 The above policies pertain to communal lab resources. Individuals with their own grants which, for example, allow them to hire a technician or travel to conferences will have exclusive (in the case of travel funding) or priority (in the case of staff or shared equipment) access to these resources.<br/>
@@ -639,7 +639,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 -At what stage will authorship be discussed? <br/>
 -How will contributions be included in a paper? <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
   Authorship vs acknowledgement is not always clear for a publication, but typically all contributors to a paper are included as authors, where contribution is broadly defined by <a href="https://credit.niso.org/">CRediT Taxonomy</a>. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the group leader, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/01-Authorship-Policy">Click here for more examples from the community</a></i>
 </details>
@@ -655,7 +655,7 @@ Recording the key outcomes of each 1-on-1 meeting immediately after it takes pla
 -Provide statistics on how long lab members typically stay in the lab. <br/>
 -Document and discuss ambitions for application to fellowships and additional funding. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 Every PhD and postdoctoral researcher position in the lab inevitably has its own set of experimental challenges and funding complications. Therefore, it is impossible to predict the outcome of any project, and I cannot make guarantees with respect to timelines or publications. However, my ambition for each role is as follows:<br/>
 <br/>
 <b>PhD students </b> in the UK typically graduate ~4 years after joining the lab, and it is my aim that each student has at least one first (or co-first) authored publication on bioRxiv at that time. I select PhD projects (in discussion with the student) with this aim in mind. Depending on the current funding status of the lab, it is often possible for students to remain in the lab for a period after their PhD, and this will be discussed at least one year in advance of graduation.<br/>
@@ -680,7 +680,7 @@ Every PhD and postdoctoral researcher position in the lab inevitably has its own
 -Mark major conferences and related deadlines in the lab calendar. <br/>
 -Discuss opportunities in the upcoming year at annual appraisals. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 I encourage all lab members to seek and apply for training opportunities to develop new expertise, and the lab values initiative to disseminate the lab research at conferences. <br/>
 <br/>
 Each postdoctoral researcher and PhD student has a budget of £1000 per year to attend conferences. This can be accumulated across years if that is the preference, and can be used for one expensive conference or multiple inexpensive conferences. Lab members do not need to present anything when attending their first conference after joining the lab, but should present at any future conferences, or organize a workshop/symposium, if they are planning to attend. If lab members have additional funds through grants or their PhD programme, these can be used in addition to the £1000 annual budget. I am happy to make an exception to this rule and provide extra funds if allowed by current grants, and an excellent opportunity arises (e.g. a unique conference, an invitation to give a prestigious talk) that would exceed this budget, but lab members should discuss with me before making any commitments. <br/>
@@ -704,7 +704,7 @@ Master's students, undergraduates, and lab technicians are also encouraged to at
 -What proportion of time is reasonable to allocate to past work?<br/>
 -A similar approach can be applied to independent or personal projects or commitments.<br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 I understand that postdoctoral researchers joining the lab may have ongoing work from their previous position and I support them taking time to complete this work. The period during which they will need to continue previous work is understandably hard to predict, but ideally it will not last longer than 1 year. If finishing previous work is expected to last longer than 1 year, postdoctoral researchers should delay the start of their position in the lab whenever possible. Time spent on previous work should not exceed ~25%.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/04-Prior-Work">Click here for more examples from the community</a></i>
 </details>
@@ -719,7 +719,7 @@ I understand that postdoctoral researchers joining the lab may have ongoing work
 -Include the starting salary for postdoctoral researchers. <br/>
 -Encourage postdocs to apply for their own grants (specify if required). <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 At XXX, salaries for postdoctoral researchers are determined by a national grading system [Insert Link]. All postdoctoral researchers in the lab start on grade XXXX, unless they have significant prior postdoctoral experience (e.g. have already completed a post doc in a lab other than their PhD lab). At the end of each year, salaries increase by one point on this grading system. <br/>
 <br/>
 All postdoctoral researchers are required to apply for followships, both to benefit their own career and to improve lab finances. However, being awarded a fellowship is not a requirement. In cases when a researcher acquires their own funding through a competitive fellowship [Insert Link], this often comes with an increased salary. It may also come with dedicated funding for a lab technician to be managed by the researcher.<br/>
@@ -740,7 +740,7 @@ I will be transparent with postdoctoral researchers about the available funding 
 <b>Suggestions:</b> <br/>
 -Acknowledge that costs will likely be unique to everyone. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
   Visa costs when joining the lab from outside the UK vary by the applicant's citizenship, but are typically £5,000, comprising application costs, required language tests, and annual NHS contributions. The process typically takes 3-6 months, although this can vary significantly. At the time of writing, we typically cover all costs related to the visa process. However, this can be position-dependent: please refer to the job advertisement for more specific details.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/06-Visa-Support">Click here for more examples from the community</a></i>
 </details>
@@ -757,7 +757,7 @@ I will be transparent with postdoctoral researchers about the available funding 
 -Be transparent about your references if performance was not satisfactory. <br/>
 -Collaborate and include lab members as signatories for their supervisees. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
   Reference letters will be provided to lab members at request, but these requests should be made at least 2 weeks in advance of the deadline for the first reference letter, and at least 1 week in advance for subsequent letters. Lab members should expect fair but honest evaluation of their performance and skills in the reference letters provided. As a rule, any additional supervisors (for example, a postdoctoral researcher who has supervised a student) of the lab member will be invited to contribute and sign the requested reference letter.<br/>
 <a href="https://github.com/SAFE-Labs-Docs/Lab-Handbook/tree/main/3-CAREERS/07-Reference-Letters">Click here for more examples from the community</a></i>
 </details>
@@ -777,7 +777,7 @@ I will be transparent with postdoctoral researchers about the available funding 
 -The exit interview could be conducted by someone external to the lab to improve feedback.  <br/>
 -Exit interviews should have standard questions and identify the reason for leaving the lab. <br/>
   <br/>
-<b>Example: </b> <br/>
+<b>Template: </b> <br/>
 I aim to provide lab members with mentorship and support to secure the next career step in their career. Job and/or grant applications, and preparing for subsequent interviews, takes time. Typically, after discussions during 1-on-1 meetings, I support dedicating up to 25% of research time to this endeavour. <br/>
 <br/>
 I am best equipped to help with academic career trajectories: I offer mentorship at 1-on-1 meetings and will devote time to rehearse interview talks. However, academia is one of many available career paths.  For career paths outside academia, the institute, and external organisations (e.g. Nature Jobs fair), offer events and workshops. I support lab members making use of these resources. <br/>
