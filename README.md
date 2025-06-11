@@ -55,7 +55,7 @@ _**Details:**_ Here we include more details on the commitment, including the rea
 _**Suggestions:**_ We may include suggestions of aspects that should be considered when fulfilling the commitment. These may contain multiple alternatives and are not requirements.<br/>
 <br/>
 _**Template:**_ We may include an example (e.g. for a documented statement). These can be copied, used as guides, or completely changed. Their relevance may vary due to country/institutional differences. <br/><br/>
-_**Community examples:**_ A collection of real-world examples of diversity statements from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own diversity statements here. <br/>
+_**Community examples:**_ A collection of real-world examples of committments from labs around the world. We encourage all labs implementing the SAFE Labs Handbook to share their own committments/statements here. <br/>
 ## Key terminology:
 _**Publicly Document:**_ A written record on the lab website that is visible to anyone. This allows applicants to make informed decisions, and minimizes expectation mismatch. Publicly documenting traditionally obscured information can be uncomfortable—it was for us. For each commitment, we asked ourselves: Would this information be useful if I were applying to a lab? Is there a strong reason to withhold this information? We hope you agree with our classifications, but if not, tell us why!<br/>
 <br/>
