@@ -39,11 +39,15 @@ A clear onboarding process should not only ensure that lab members complete esse
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Starting in a new lab, and potentially in a new city and country, is stressful. We have several procedures in place to help with this process.
+>
 >In the first week(s) every new lab member will have a 1o1 meeting with the PI where some or all of the following points are covered (depending on the role of the team member): (a) this handbook, (b) access to lab calendars and resources, (c) general expectations including work hours, presence, communication, (d) necessary courses and licenses, (e) next steps for practical training and project identification.
 >
 >Furthermore, the following information and help is provided:
+>
 >PhD candidates: Since PhD candidates are hired by the graduate school and not by individual labs, help with visa, travel, paperwork as well as first introductions to the institute will be organized by the [student secretariat](https://wiki.sissa.it/students/index.php/Students%27_Secretariat). A lot of useful information can also be found in the [student wiki](https://wiki.sissa.it/students/index.php/Main_Page). All lab members are willing to help in individual cases with translating from Italian, communicating at different offices etc. The first weeks and months are dedicated to courses and identifying the best lab for each candidate. 
+>
 >MSc students / interns: Also here the student secretariat will be involved in most of the administrative aspects. 
+>
 >Postdocs / technicians: The [Mobility office of SISSA](https://www.sissa.it/research/research-funding-and-international-relations-office) is responsible to help new researchers and technicians, especially if they come from abroad. 
 
 ### Netherlands

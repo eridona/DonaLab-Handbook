@@ -36,7 +36,9 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is impossible to do modern neuroscience alone. Techniques are too difficult, algorithms too complicated for one person to be able to do everything. In our lab, PhDs and postdocs will have their main project, but everyone will be involved in at least one additional project by contributing specific expertise. Hence, papers with only 2 authors (First + PI) will be impossible or at least extremely rare. We also don’t believe in authorship gatekeeping or that papers are worth less if there are more authors. The following steps are taken for transparent authorships:
+>
 >We generally follow the [CRediT Taxonomy](https://credit.niso.org/) guidelines of what authorship constitutes. For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship.
+>
 >Authorship will be discussed with all involved researchers whenever a person starts contributing to a new project or a new collaboration is established.
 
 ### Netherlands
