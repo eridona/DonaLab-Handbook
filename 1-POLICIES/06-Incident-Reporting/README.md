@@ -41,7 +41,13 @@ Bullying and harassment are serious allegations and entirely unacceptable in any
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Under no circumstances do we support any form of bullying or harassment, whether verbal or physical. SISSA has multiple measures in place to report bullying and harassment, and to receive psychological support as well as help with possible actions and consequences. The following four routes can be taken if someone experiences bullying and harassment:
+>- Talk to the PI and/or the PhD coordinator: For less severe cases or if one wants to first have an informal chat about incidences, the PI as well as the PhD coordinator can be contacted. 
+>- The CUG representative: The CUG (Comitato Unico di Garanzia – Committee for equal opportunities) representative is the official contact person to report bullying and harassment.  
+>- Talk to the ombuds person: The ombuds person, like the PI, do not have legal knowledge and are not entitled to take any actions, but they are an independent and confidential resource with more extensive knowledge of possible actions and consequences.
+>- School psychologist: The services of the school psychologist can be used free of charge. Beyond a psychological degree, they also have legal knowledge and can help you decide on the next steps.
+
+Contact details can be found in our extended version of the Lab Handbook.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

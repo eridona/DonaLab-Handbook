@@ -33,7 +33,7 @@ Implementing guidelines for giving and receiving feedback is good practice to en
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We currently do not hold annual lab-wide feedback sessions. Lab members will be regularly asked if this format is deemed useful. If yes, it’ll be implemented in the future.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

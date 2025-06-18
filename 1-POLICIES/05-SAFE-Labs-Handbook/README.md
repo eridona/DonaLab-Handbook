@@ -38,7 +38,9 @@ This consists of three required steps:
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ The importance of a positive work culture for wellbeing and productivity has become increasingly evident in recent years, but academic science still has a negative reputation in this area. [Here you can find our Lab Handbook](https://drive.google.com/file/d/1FVUqOQC4R48ENKyJsKzS7PNwspzAZaDL/view?usp=sharing) that contains detailed expectations and commitments by Katja, the PI of the lab. It is the basis for safe, fair, equitable, and informed interactions within the lab. A more detailed version is shared among current lab members.
+>
+>This handbook is the result of a dedicated, international workshop called [⁠“SAFE Labs”](https://coen-lab.com/safe-labs/) in 2024, focused on understanding the key barriers to Starting Aware, Fair, and Equitable Labs. The attendees of the first edition of this workshop came up with [guidelines to create Lab Handbooks](https://github.com/SAFE-Labs-Docs/Lab-Handbook). Both the guidelines as well our lab's version of the Handbook will be reviewed and updated.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

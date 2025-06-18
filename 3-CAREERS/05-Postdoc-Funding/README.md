@@ -36,7 +36,12 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ There are no (very few) Italian personal grants for postdocs. Hence, funding can come from one out of three sources: (1) Lab grant, (2) EU fellowship (MSCA etc.), (3) School funds. Since 2025, postdoc contracts are work contracts that include taxes, contributions to pension schemes etc. The details of these contracts will be communicated by HR. Postdocs can likely expect the following salaries and contract durations:
+>1. Lab grants: Initial contracts are for 12 months, but there will be clear communication about the duration of the current funding and the anticipated duration of the postdoc (typically at least 3 years). If funds allow, we aim to pay more than Italian standard postdoc contracts, currently we pay around 27’000-30’000 Euro net per year from which only a small health care contribution needs to be subtracted. 
+>2. EU fellowships: Typical fellowship durations are 2-3 years. Salaries can vary widely and are determined by the agency; they cannot be “topped-up” by other funding sources. An MSCA currently pays more than double of a typical Italian postdoc salary.
+>3. School funds: Depending on school budgets, there are certain numbers of “postdoc months” that can be paid from school money. Durations are variable but will be max. 12 months. How these fellowships will look like exactly under the new law is not clear yet.
+
+>For comparisons, salaries of personnel and faculty at different stages are public and can be found [here](https://www.sissa.it/servizi-informazioni-personale/salary-tables).
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

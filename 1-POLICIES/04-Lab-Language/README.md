@@ -35,7 +35,9 @@ English is the international language of science in the 21st century: proficienc
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ The official language of the institute and the lab is English. Speaking a commonly used language is a sign of inclusivity but is also a crucial skill for science communication. By speaking Italian or other languages that are not English with other people present or entering the room, you are actively excluding your colleagues from the conversation. This is not acceptable at the workplace. For example, if you meet with someone in the cafeteria for a private conversation it’s ok to speak e.g. Italian. But if go for lunch with other Italian lab members and speak Italian, then a non-Italian member joins the table, it is NOT ok to continue in Italian.
+>
+>Details on accepted use of other languages including LLMs can be found in our extended version of the Lab Handbook.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

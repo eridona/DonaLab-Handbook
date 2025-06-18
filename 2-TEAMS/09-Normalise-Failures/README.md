@@ -35,7 +35,7 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ We currently do not hold annual lab-wide meetings targeted at normalizing failures. If this format is deemed useful by the lab members, it’ll be implemented in the future. Normalizing failures is part of daily interactions and during the weekly lab meetings, including reports of past/present failures of the PI.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

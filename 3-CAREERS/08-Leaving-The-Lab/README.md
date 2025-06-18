@@ -41,7 +41,19 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is normal that people will leave the lab, either because they have finished their project, or because they’ve found a new opportunity or for personal reasons. Lab members are encouraged to talk to the PI as soon as they consider leaving the lab. It will not be held against anyone if they want to leave, instead, the PI is dedicated to providing support in planning the next steps or to finding solutions in case the leave is due to health/personal reasons. Once someone has decided to leave, the following steps need to be taken:
+>
+>As early as possible:
+>- Make sure knowledge is transferred and at least one current lab member is trained in relevant techniques.
+>- Discuss how ongoing projects will be continued, how authorship might change etc.
+>
+>In the week(s) before leaving:
+>- Make sure that all documentation (lab book, meta data files) is up to date.
+>- Make sure that all work-related documents are saved in an accessible place.
+>- Clean out personal reagents etc. from fridges. 
+>
+>In the last week:
+>- 1o1 meeting with the PI to go together through the update documentation, discuss and give mutual feedback on the lab member’s time in the lab, and to discuss next steps concerning ongoing projects if adequate.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

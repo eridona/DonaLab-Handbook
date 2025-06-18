@@ -36,7 +36,8 @@ Researchers often focus on scientific progress and neglect the development of co
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Core skills such as team/time management, feedback, writing, and presentations are crucial to a scientific career. Many of these are addressed during daily interactions. For instance, the PI commits to giving extensive and comprehensive feedback on writing tasks, giving presentations is practiced during regular lab meetings and specifically when a public presentation is coming up, and lab members are encouraged to attend courses on management, writing and communication. 
+>We currently do not have an annual meeting that focuses on these skills in place. If this format is deemed useful by the lab members, it’ll be implemented in the future.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

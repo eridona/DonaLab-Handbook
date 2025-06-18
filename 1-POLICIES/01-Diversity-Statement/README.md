@@ -36,7 +36,7 @@ Science is an international endeavour, which brings together people from many cu
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/team):_ We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment; we discuss aspects of equity and inclusion; we discuss any cultural needs at onboarding, and encourage lab members to share crucial cultural events and festivities; and, we promote diversity in science by selecting journal club papers from a diversity of voices. To maximize everyone’s wellbeing and opportunities, we take steps and provide resources concerning work time flexibility, maternity/paternity, and cultural and financial needs. We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

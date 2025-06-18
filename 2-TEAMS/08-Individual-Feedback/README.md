@@ -35,7 +35,7 @@ Having (at least) an annual 1-on-1 meeting with each lab member dedicated to exc
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ All lab members have 1o1 meetings with the PI as illustrated in the section "Regular meetings". In addition, at the end of each year, the PI meets with every lab member separately to provide mutual feedback and discuss future plans. These meetings follow a structured outline, require preparation on both the PI and team member side, and ensure that feedback is constructive and bidirectional.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

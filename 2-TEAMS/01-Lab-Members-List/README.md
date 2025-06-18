@@ -34,7 +34,7 @@ A clear and current list of lab members allows prospective applicants to gauge t
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ A list and contact information of all current lab members as well as a list of lab alumni can be found on the [lab website] (https://www.reinhardlab.org/team).
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
