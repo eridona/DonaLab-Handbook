@@ -59,7 +59,7 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
->_[CoenLab_2025](https://coen-lab.com/):_ People leave the lab for all kinds of reasons—whether it is after several Postdoc years, or after a summer project. Hopefully, they are leaving for exciting new opportunities or retiring as a crypto-millionaire. Regardless of the reason for leaving, there is a checklist of items to consider (for Pip or the lab member) which are listed here. While opportunities may arise unexpectedly, please give Pip as much notice as possible so that this transition can take place as smoothly!
+>_[CoenLab_2025](https://coen-lab.com/):_ People leave the lab for all kinds of reasons—whether it is after several Postdoc years, or after a summer project. Hopefully, they are leaving for exciting new opportunities or retiring as a crypto-millionaire. Regardless of the reason for leaving, there is a checklist of items to consider (for Pip or the lab member). While opportunities may arise unexpectedly, please give Pip as much notice as possible so that this transition can take place as smoothly!
 >
 >#### Offboarding Checklist
 >
@@ -75,14 +75,13 @@ Staff and students can choose to leave a lab for various reasons. If the expecta
 >    - Mailing list
 >    - Notion
 >    - Website
->- (Potentially) End/Transfer PIL license payments
 >
 >#### Exit Interviews
 >
 >*The content of exit interviews will not be shared with other lab members*
 >
->In addition to completing the steps above, Pip arranges for all lab members to have an exit interview with myself, or another member of the lab. If the lab is to improve, and become a more inclusive and equitable environment, Pip need to know which aspects of the lab are working well, and which are not. Discussing these elements (particularly any that are negative) of lab experience can become easier when leaving, and that is why exit interviews are so valuable.
+>In addition to completing the steps above, Pip arranges for all lab members to have an exit interview with himself, or another member of the lab. If the lab is to improve, and become a more inclusive and equitable environment, Pip need to know which aspects of the lab are working well, and which are not. Discussing these elements (particularly any that are negative) of lab experience can become easier when leaving, and that is why exit interviews are so valuable.
 >
 >Of course, the Coen Lab, and my style of supervision, is not the right fit for every scientist: the purpose of rotations and probations is to (hopefully) figure that out before committing to a long-term project together. That is to be expected and is an important part of the process.
 >
->However, if someone is leaving the lab because they have been made to feel uncomfortable or unwelcome, *that is not to be expected and is not okay*. If you experienced something like this during your time in the lab, please raise it during your exit interview so Pip can take steps to prevent it happening again. Naturally, Pip hopes lab members feel able to raise these concerns as soon as they arise so he can take immediate action: you can submit concerns at any time in regular meetings, or anonymously here: [Anonymous feedback channel](https://www.notion.so/180cf99fa4ce80e08a26cc1bdef013be?pvs=21).
+>However, if someone is leaving the lab because they have been made to feel uncomfortable or unwelcome, *that is not to be expected and is not okay*. If you experienced something like this during your time in the lab, please raise it during your exit interview so Pip can take steps to prevent it happening again. Naturally, Pip hopes lab members feel able to raise these concerns as soon as they arise so he can take immediate action: you can submit concerns at any time in regular meetings, or anonymously [here]).
