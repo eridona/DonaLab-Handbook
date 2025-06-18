@@ -36,7 +36,12 @@ Lab members are often considering academia as a potential career. It informs tha
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Several mechanisms are in place to update all team members on lab management issues (responsibilities of lab managers, funding situation, costs etc.):
+>Biweekly lab meetings: The PI presents at the biweekly lab meetings. Often, these presentations will be about lab management related aspects.
+>Lab costs and funding are documented in detail and accessible to all lab members. Like this, everyone can get an idea of what “stuff costs” and what the funding situation of the lab is.
+>Grant applications are shared and, if adequate, lab members contribute to writing, budgeting etc. 
+>Postdocs who aim to leave soon will have dedicated meetings with the PI to discuss relevant aspects to lab management.
+>The PI participates often in informal lunches, coffee breaks or other opportunities to ask and discuss about lab management topics.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

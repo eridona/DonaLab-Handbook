@@ -36,7 +36,7 @@ We are all familiar with the experience of joining a new lab whilst still having
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is common that one leaves a previous position before the final acceptance of a manuscript. Every new team member who needs to contribute to the completion of previous work needs to discuss the details with the PI and come to an agreement of the percentage of time and the duration of these contributions. 
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

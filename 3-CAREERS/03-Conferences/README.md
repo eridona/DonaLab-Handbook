@@ -36,7 +36,7 @@ Conferences, workshops, and other training opportunities (e.g. summer schools) a
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Attendance at conferences is a crucial part of science to build networks, to learn about new fields, the obtain the latest updates, to disseminate results and to find new positions. Lab members are encouraged to attend conferences – conference attendance time is work time! As a rule of thumb, lab members should present at least a poster if they want to attend a conference, but exceptions can be discussed. PhD candidates and postdocs are also requested to plan ahead far enough so that there is time to apply for travel grants. Details can be found as well in section “Equal access to resources”.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

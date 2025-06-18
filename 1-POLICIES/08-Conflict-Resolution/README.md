@@ -40,7 +40,7 @@ One prominent reason that lab and inter-personal issues are not raised in a time
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ It is important to raise and solve inter-personal issues within the lab early. We all spend many hours of our days working together and a safe and open environment is crucial to being able to perform well and happily. If possible, issues should be raised to the PI during 1o1 meetings or during a separately scheduled meeting. The PI will advise on possible solutions and actions, invite the other parties to voice their point of view, and organize group discussions if adequate. If you don’t feel comfortable raising the issue with the PI, contact the [ombuds person](http://students.sissa.it/issues/ombudsperson.html) or raise the issue with HR. 
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

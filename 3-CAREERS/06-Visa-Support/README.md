@@ -36,7 +36,7 @@ For international lab members, visa costs and processes can be a significant bar
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ See section “Onboarding” for information. Briefly, all Visa related questions are handled by the student secretariat (for PhD students) or the mobility office (for all other researchers). PhD students hired through the graduate school are entitled to a relocation contribution (500 Euro for EU members, 1000 Euro for overseas), a living expenses contribution (150 Euro per month) and a contribution to a personal laptop (400 Euro). For postdocs, relocation contributions can only be paid if the postdoc is paid by external funds (grants, fellowships). Whenever this is the case, we commit to the legally possible contributions (500 for EU, 1000 for overseas).
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

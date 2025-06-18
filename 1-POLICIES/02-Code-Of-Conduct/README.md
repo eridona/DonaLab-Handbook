@@ -32,7 +32,16 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ What I expect from my lab members: 
+>HONESTY - I expect everyone to be honest about the insights they gained, about mistakes that happened, and about their plans and intentions as far as they concern their work and the lab. Importantly, making mistakes is part of the learning and skill development process! 
+>FEEDBACK - Give me feedback – both if you find something I do helpful, but also if I do or say something you think is wrong or not in the best interest of everyone. 
+>COMMUNICATION - Communicate frequently, clearly and concisely. Tell us about your successes, ask questions, and ask for help to solve problems. 
+>HELPFULNESS & ACKNOWLEDGEMENT - Help your colleagues – everyone's success benefits the whole lab. Acknowledge the help you received in your presentations, add people as authors to abstracts and papers if they contributed to your work. Ideas and regular feedback or significant troubleshooting are  contributions, too! 
+>RESPECT - Treat everyone with respect - your colleagues, other labs, technical personnel, cleaning personnel, administration... This refers to how you speak and listen to others, accepting who they are, but also respecting other people's time and (personal) space. 
+>DEDICATION - I expect my team to do the best research they can - to strive for excellence in their experimental work, analysis, writing and science communication. However, balancing work and the rest of your life is important. Be dedicated during your work time, but make time for other things that are important to you. 
+>PARTICIPATION - I expect everyone to be an active member of the lab, institute and science community. I ask my team to actively participate in lab meetings, journal clubs, seminars, conferences...; and to offer us their insights, knowledge and opinion.
+>
+>More details and what lab members can expect from me are found on our website.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]

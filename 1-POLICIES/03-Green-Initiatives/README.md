@@ -34,7 +34,16 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 [To be filled with specific examples from Irish institutions]
 
 ### Italy
-[To be filled with specific examples from Italian institutions]
+>_[ReinhardLab_2025](https://reinhardlab.org/philosophy):_ Research consumes a lot of energy and produces a lot of waste. While this cannot always be avoided
+for experimental or safety reasons, we have rules in place to minimize our footprint as much as possible:
+>
+>Travels: Team members are required to travel by train or similar public transport means for trips <8h. Exceptions need to be discussed with the PI. SISSA employees can get a 10%discount on all Freccia travels, including private ones.
+>
+>Correct waste management: Team members get instructed on correct disposal of hazardous waste and are requested to check safety information before discarding products they are not familiar with. Both in and outside the labs we have recycling bins for paper and plastic, and everyone is encouraged to use these for non-hazardous waste.
+>
+>Bulk orders: Italian law requires public entities to use economical solutions, which includes combining orders to the same company from various labs. Furthermore, SISSA has the “Neurostore” which provides labs with many of the daily used consumables which hence can be ordered in large quantities to reduce shipping.
+>
+>Shared facilities: We have quite a large number of shared facilities and equipment. These are managed by the technical staff and can be used by all SISSA labs.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
