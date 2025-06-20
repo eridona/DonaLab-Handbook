@@ -44,6 +44,15 @@ for experimental or safety reasons, we have rules in place to minimize our footp
 >Bulk orders: Italian law requires public entities to use economical solutions, which includes combining orders to the same company from various labs. Furthermore, SISSA has the “Neurostore” which provides labs with many of the daily used consumables which hence can be ordered in large quantities to reduce shipping.
 >
 >Shared facilities: We have quite a large number of shared facilities and equipment. These are managed by the technical staff and can be used by all SISSA labs.
+>
+>
+> _[RossiLab](https://rossilab.iit.it/home)_: The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+
+Travel: I encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, I will cover the most sustainable travel option (up to 150% the price of the cheapest alternative). IIT policies also encourages the use of public transport over private cars and taxis. Lab members are encouraged to combine their work trips with other activities to reduce future emissions, like visiting related labs or institutes in the local area, or simply taking a holiday: in compliance with IIT policies, onwards or returning travel on away days will be covered if similar or less expensive. I incentivize sustainable options for daily commute: undergrad, master and PhD students enrolled at University of Trento benefit from [discounted public transportation across the Trentino region](https://www.provincia.tn.it/Servizi/Abbonamenti-trasporto-studenti-universitari). 
+
+Recycling: We recycle waste whenever possible. In the office space, segregated recylcing bins are provided and disposed of by cleaners; in the labs, we actively arrange our own recycling bins, and empty them when full. To minimize the environmental impact of lab waste, we avoid mixing contaminated materials (which is expensive and environmentally harmful to safely dispose of) with clean recyclable waste. Finally, we order equipment from local companies when the difference in cost is minimal.
+
+Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment when prolonged downtime is forecasted.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
