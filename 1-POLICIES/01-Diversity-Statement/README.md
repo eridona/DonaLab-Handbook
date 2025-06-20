@@ -37,7 +37,8 @@ Science is an international endeavour, which brings together people from many cu
 
 ### Italy
 >_[ReinhardLab_2025](https://reinhardlab.org/team):_ We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment; we discuss aspects of equity and inclusion; we discuss any cultural needs at onboarding, and encourage lab members to share crucial cultural events and festivities; and, we promote diversity in science by selecting journal club papers from a diversity of voices. To maximize everyone’s wellbeing and opportunities, we take steps and provide resources concerning work time flexibility, maternity/paternity, and cultural and financial needs. We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join.
->
+
+
 >_[RossiLab 2025](https://rossilab.iit.it/home):_ I believe that diversity is a resource to harness; thus, I strive to create a psychologically safe environment where disruptive points of view are valued. To foster a diverse and inclusive environment, I review the institutional rules for maternity and paternity leave when negotiating a contract; I discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, I promote diversity in science by selecting journal club papers from a diversity of voices. Through these policies, I aim to create a welcoming environment for individuals from different cultural, socioeconomic, gender, and geographical backgrounds.
 
 ### Netherlands
