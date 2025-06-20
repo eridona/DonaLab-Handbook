@@ -42,6 +42,9 @@ A prominent code of conduct should help to establish the lab atmosphere, foster 
 >- PARTICIPATION - I expect everyone to be an active member of the lab, institute and science community. I ask my team to actively participate in lab meetings, journal clubs, seminars, conferences...; and to offer us their insights, knowledge and opinion.
 >
 >More details and what lab members can expect from me are found on our website.
+>
+>
+>_[RossiLab 2025](https://rossilab.iit.it/home):_All lab members are expected to maintain a professional attitude of integrity, accountability, and mutual respect in all interactions and endeavours while upholding high standards of scientific rigor and collaboration. Examples include respecting each other’s points of views and contributions to discussions, arriving on time for meetings (remind Federico of this!), and actively engaging in each other’s presentations. Everyone commits to maintaining an inclusive environment marked by compassionate behaviour and free from offensive conduct, particularly regarding gender, race, sexuality, or disability. Lab members should feel free and safe to voice their ideas, wishes, or concerns without risking negative consequences ensuring a suportive environment and diverse viewpoints.
 
 ### Netherlands
 [To be filled with specific examples from Dutch institutions]
