@@ -48,7 +48,7 @@ This not only makes it clear when regular meetings should be cancelled, or when 
 > ABSENCES:Every lab member (PI, post-doc, PhD student, trainee) must write their absences in the lab calendar. There are 4 kinds of absences:
 > - XX away (if on holiday)
 > - XX on Mars (if on Mars for work)
-> - XX remote (if working remotely, we don't need to know where from)
+> - XX remote (if working remotely, I don't need to know where from)
 > - XX sick (if on sick leave)
 > All of these are for full-day absences. For less than a full day, please don't tell Federico where you are, just go. However, if you are off for a substantial part of the core hours, please send Federico an email – don't worry about clogging his inbox. If you have suggestions on how to improve these rules, let me know and I would be happy to discuss.
 >
