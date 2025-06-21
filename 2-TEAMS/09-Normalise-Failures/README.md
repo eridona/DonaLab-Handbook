@@ -41,4 +41,8 @@ Research can be frustrating, with failures and falsified hypotheses outnumbering
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ Research can be frustrating, with failures and falsified hypotheses outnumbering successes. Many failures are "good" failures: those where you discover something about the system you are working on, and improve future work through the experience. These failures are the stepping stones to discovery, and should be celebrated. 
+>
+>**Some failure just suck**—and the only “lesson” is that academia (and life) sucks sometimes.
+>
+>Each year (in January) we will dedicate one meeting to this topic: everyone will talk about (at least) one professional failure from the past year—it could be anything from an experimental issue to a rejected application. The exact format will evolve with time, so for more specifics of the agenda and process, please look at the corresponding entry in the Lab Meetings database.
