@@ -50,4 +50,24 @@ The decision to recruit an applicant should depend on clear selection criteria t
 [To be filled with specific examples from Dutch institutions]
 
 ### United Kingdom
-[To be filled with specific examples from UK institutions]
+>_[CoenLab_2025](https://coen-lab.com/):_ People As described above, some lab members will join the lab through routes with an external interview process, including PhD programmes and postdoctoral fellowships. In other cases, when Pip directly advertises a position, he strives to maintain a fair and equitable interview process. Interview panels will be chosen to reflect the position being advertised., and in accordance with guidelines from UCL.
+>
+>In brief, the entire process lasts ~2 months and consists of:
+>
+>1. Position advertised by Pip (~4 weeks)
+>2. Initial review by interview panel members (~1 week)
+>3. Candidates notified of 1st round results. Either:
+>    - Invited for a panel interview
+>    - Notified they were not suitable for the role
+>4. Initial interviews of selected candidates (~1-2 weeks)
+>5. Candidates notified of 2nd round results. Either:
+>    - Invited for further interaction with the lab
+>    - Notified they were not suitable for the role
+>6. Depending on role, candidate(s) may (~1-2 weeks):
+>    - Meet individual lab members (virtually)
+>    - Visit the lab (if possible for all remaining candidates)
+>    - Give a scientific talk to the Coen Lab (and others)
+>    - Present a paper to the lab
+>7. Candidates notified of final results. Either:
+>    - Offered the position
+>    - Notified they were not suitable for the role
