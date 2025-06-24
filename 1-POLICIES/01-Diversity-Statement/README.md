@@ -24,7 +24,7 @@ Science is an international endeavour, which brings together people from many cu
 [To be filled with specific examples from Belgian institutions]
 
 ### France
-[To be filled with specific examples from French institutions]
+>_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ Our lab is committed to building a diverse and inclusive scientific community. We believe that groundbreaking science is driven by the creative energy that emerges from a mix of perspectives, backgrounds, and life experiences. To that end, I actively welcome and mentor researchers from all cultural, socioeconomic, gender, and geographical backgrounds. My goal is to foster a supportive and collaborative environment where every member feels valued, respected, and empowered to contribute their unique insights. 
 
 ### Germany
 [To be filled with specific examples from German institutions]

@@ -24,7 +24,12 @@ We are all familiar with the experience of joining a new lab whilst still having
 [To be filled with specific examples from Belgian institutions]
 
 ### France
-[To be filled with specific examples from French institutions]
+>_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ We encourage lab members to complete and publish research from their previous positions. To balance this with current project responsibilities, please follow these guidelines:
+>
+> General Allocation: You may dedicate up to 25% of your working hours to finalizing prior commitments.
+>
+> Deadline Exceptions: We understand that deadlines for paper resubmissions or conferences require intensive focus. During these critical periods, you may dedicate more time as needed. Please communicate with me in advance so we can plan accordingly.
+
 
 ### Germany
 [To be filled with specific examples from German institutions]

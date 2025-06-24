@@ -28,7 +28,10 @@ Lab rules for working hours should be clear to avoid any conflict or misundersta
 [To be filled with specific examples from Belgian institutions]
 
 ### France
-[To be filled with specific examples from French institutions]
+>_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_
+>- Working hours: they are set in agreement with our institute policy (~38hours / week, from Monday to Friday). There is no strict rule for work schedule, but lab members are expected to be present during 'core hours': 10-12am and 2-5pm. 
+>- Remote working : Lab members are expected to be physically present in the lab at least 4 days a week, to ensure interactions between lab members. For some specific periods/situations, remote work can be allowed (i.e. thesis writing). 
+>- Vacation: All lab members are expected to take all their allowed annual leave which is determined by their employer.
 
 ### Germany
 [To be filled with specific examples from German institutions]
