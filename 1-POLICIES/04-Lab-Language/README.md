@@ -46,7 +46,7 @@ The lab language is English. Any professional conversation, oral and written, du
 > For our scientific production, I encourage the use LLMs to proofread and refine original written material; however, I won't accept fully AI generated material. Instead, I incentivise the use of LLMs and other AI tools to streamline and automate bureaucracy, coding and other procedures by providing paid access to the most modern tools (e.g. currently, chatGPT).
 
 
-> _[MariottiLab 2025]([https://rossilab.iit.it](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti))_: The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone to participate.
+> _[MariottiLab 2025](https://rossilab.iit.it](http://www.in.cnr.it/index.php/it/people-it/833-letizia-mariotti)_: The lab language is English. Any professional conversation, oral and written, during work activities must be in English: these include presentations and discussion at lab meetings, scientific output, and email exchanges. Outside of professional meetings, the lab strives for inclusive communication: verbal exchanges should adopt the common language that allow everyone to participate.
 >
 > However, many institutional administrative exchanges and administrative processes are in Italian; thus, proficiency in Italian can be useful within the institute. Please refer to Letizia if you need any help with Italian bureaucracy.
 >
