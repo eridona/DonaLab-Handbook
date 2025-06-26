@@ -26,7 +26,7 @@ English is the international language of science in the 21st century: proficienc
 [To be filled with specific examples from French institutions]
 
 ### Germany
-[To be filled with specific examples from German institutions]
+The lab language is English. Any professional conversation, oral and written, during work activities must be in English. Nonthless, some administrative exchanges are in German and the institute offers assistance in learning the German language.
 
 ### Hong Kong
 [To be filled with specific examples from Hong Kong institutions]

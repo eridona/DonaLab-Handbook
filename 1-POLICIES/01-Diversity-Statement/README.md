@@ -27,7 +27,7 @@ Science is an international endeavour, which brings together people from many cu
 [To be filled with specific examples from French institutions]
 
 ### Germany
-[To be filled with specific examples from German institutions]
+We believe that diversity is a resource to harness, and we strive to create a psychologically safe environment where disruptive points of view are valued. Thus, to foster a diverse and inclusive environment, we hire according to institutional affirmative action policies; we review the institutional rules for maternity and paternity leave when negotiating a contract; we discuss any cultural needs at onboarding, and we encourage lab members to share and mark on the lab calendar crucial cultural events and festivities; finally, we promote diversity in science by selecting journal club papers from a diversity of voices. We hope that these policies will encourage individuals from different cultural, socioeconomic, gender, and geographical backgrounds to join. Women and members of a minority group can contact Humboldt University’s women’s adviser for guidance and financial support regarding specific challenges in their careers.
 
 ### Hong Kong
 [To be filled with specific examples from Hong Kong institutions]

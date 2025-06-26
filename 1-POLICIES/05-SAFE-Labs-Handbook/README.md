@@ -29,7 +29,7 @@ This consists of three required steps:
 [To be filled with specific examples from French institutions]
 
 ### Germany
-[To be filled with specific examples from German institutions]
+https://torbenottlab.org/safe-labs/: Our lab is committed to foster a positive, inclusive lab culture. Torben contributed to SAFE Labs, an initiative to start Safe and Equitable Labs by commiting to 30 action items distilled into a Lab Handbook. We have implemented these guidelines in our lab. You can find the public part of the Lab Handbook here.
 
 ### Hong Kong
 [To be filled with specific examples from Hong Kong institutions]

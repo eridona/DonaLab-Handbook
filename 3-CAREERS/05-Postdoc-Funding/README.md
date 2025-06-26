@@ -27,7 +27,7 @@ Postdoctoral researchers typically join the lab with an initial contract, and th
 [To be filled with specific examples from French institutions]
 
 ### Germany
-[To be filled with specific examples from German institutions]
+Available funding depends on current grants and project goals and will be discussed with each researcher during hiring and onboarding. In general, funding for graduate students and postdoctoral researchers is available for at least 3 years. Typically, I will ask postdocs and graduate students, where appropriate, to apply for funding. I guide and support the grant writing process. This helps to crystalise their project approach and hypotheses, are valuable additions to a researcher’s CV, and can provide additional funding for professional activities (e.g. travel).
 
 ### Hong Kong
 [To be filled with specific examples from Hong Kong institutions]

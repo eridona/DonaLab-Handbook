@@ -26,7 +26,7 @@ The line between "acknowledgement" and "authorship" is not always clear. An auth
 [To be filled with specific examples from French institutions]
 
 ### Germany
-[To be filled with specific examples from German institutions]
+Authorship vs acknowledgement is not always obvious in advance, but typically all contributors to a paper are included as authors, where contribution is broadly defined by CRediT Taxonomy (https://credit.niso.org/). For example, developing a new technique for a project, or contributing previously unpublished data/figures would constitute authorship. Conversely, routine experimental work, sharing basic analysis code, or proof-reading a paper would not constitute authorship. Authorship is ultimately decided in discussions between the PI, project lead(s), and any other potential authors. Although the scientific process is unpredictable, authorship will be discussed when a lab member begins, or becomes involved with, a project. Whenever possible, we publish a matrix of contributions at the end of each paper.
 
 ### Hong Kong
 [To be filled with specific examples from Hong Kong institutions]
