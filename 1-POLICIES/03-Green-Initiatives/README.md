@@ -25,7 +25,10 @@ Laboratories consume a lot of energy and produce a lot of waste. Group leaders a
 [To be filled with specific examples from French institutions]
 
 ### Germany
-[To be filled with specific examples from German institutions]
+The lab strives to minimise energy consumption and waste production. We identified three main areas of impact: travel, recycling and economical use of equipment.
+Travel: We encourage sustainable transport options both for long-haul travel and for daily commute. For long-hauls trips, when funding allows, the lab covers the most sustainable travel option. PhD students enrolled at Humboldt University have local public transport included, and employee benefits include reduced public transport subscriptions.
+Recycling: To minimize the environmental impact of lab waste, we avoid mixing lab waste and regular waste. We recycle regular waste according to local regulations.
+Economical use of equipment: when possible and not detrimental our instruments, we turn off unused equipment and lighting.
 
 ### Hong Kong
 [To be filled with specific examples from Hong Kong institutions]

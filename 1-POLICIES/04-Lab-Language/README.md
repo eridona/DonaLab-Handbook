@@ -26,7 +26,7 @@ English is the international language of science in the 21st century: proficienc
 >_[BugeonLab_2025](https://www.inmed.fr/en/circuits-neuronaux-et-codage-sensoriel):_ English is the official language of the lab. All scientific activities, including meetings, presentations, and written communication, are to be conducted in English. This policy is upheld to ensure an inclusive environment for all members, regardless of their native language. An exception is made for undergraduate students, who may present their work in French in accordance with the university's primary language of instruction. Furthermore, while the lab operates in English, daily interactions within the broader institute often occur in French. We encourage non-French speaking members to learn French to aid in their integration. Aix-Marseille Université offers language courses to support this.
 
 ### Germany
-[To be filled with specific examples from German institutions]
+The lab language is English. Any professional conversation, oral and written, during work activities must be in English. Nonthless, some administrative exchanges are in German and the institute offers assistance in learning the German language.
 
 ### Hong Kong
 [To be filled with specific examples from Hong Kong institutions]
