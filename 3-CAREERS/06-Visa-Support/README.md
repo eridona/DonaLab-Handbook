@@ -27,7 +27,7 @@ For international lab members, visa costs and processes can be a significant bar
 [To be filled with specific examples from French institutions]
 
 ### Germany
- Visa availability and support is a complex topic since this depends on the type of position and country of origin. Please consult these information (https://hic.hu-berlin.de/en/berlin-perspectives/practical_information) and the institue’s international office (https://www.international.hu-berlin.de/en). It might be possible to cover visa cost, which can be discussed during interviewing, hiring, and onboarding.
+ Visa availability and support is a complex topic since this depends on the type of position and country of origin. Please consult these information (https://hic.hu-berlin.de/en/berlin-perspectives/practical_information) and the institue’s international office here (https://www.international.hu-berlin.de/en). It might be possible to cover visa cost, which can be discussed during interviewing, hiring, and onboarding.
 
 ### Hong Kong
 [To be filled with specific examples from Hong Kong institutions]
